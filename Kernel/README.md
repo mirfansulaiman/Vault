@@ -1,3 +1,6 @@
+# Nb reasearch:
+<html><a href="https://github.com/akayn/NBResearch">Nb</a></html>
+
 # description 
 verius exploitation techniques to attack the intel x86 architecture in order to bypass protection mechanisms, cause memory corruption & to take over the instruction pointer, over multiple operating systems and cpu platforms and a reverse analysis of the intel processor architecture exploitation, this includes a windows, linux & an OSx version's.
 
