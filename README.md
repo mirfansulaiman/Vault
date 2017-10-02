@@ -50,6 +50,10 @@ low level <br>
 # biz..
 <html><a href="https://github.com/ivanJo77/singidunum-projects">#</a></html>.<br>
 
+# con
+<html><a href="https://infiltratecon.com/archives/">inf</a></html>.<br>
+
+
 
 
 
