@@ -32,6 +32,8 @@ low level <br>
 <html><a href="https://github.com/goabout2/exploits">flash as</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=733549">br</a></html>.<br>
 <html><a href="https://github.com/xuechiyaobai/CVE-2017-7092-Exploit">safari</a></html>.<br>
+<html><a href="http://www.mista.nu/research/MANDT-kernelpool-PAPER.pdf">Q overwrite</a></html>.<br>
+
 
 
 # ShellCode:
