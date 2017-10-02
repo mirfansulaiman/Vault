@@ -43,6 +43,8 @@ low level <br>
 <html><a href="https://github.com/worawit/MS17-010/tree/master/shellcode">Apc</a></html>.<br>
 <html><a href="https://github.com/rapid7/metasploit-framework/blob/master/external/source/shellcode/windows/multi_arch_kernel_queue_apc.asm">Apc</a></html>.<br>
 <html><a href="https://github.com/rapid7/metasploit-framework/tree/master/external/source/shellcode/windows">msf</a></html>.<br>
+<html><a href="https://osandamalith.com/2017/09/24/detecting-architecture-in-windows/">arch</a></html>.<br>
+
 
 
 # SysCalls
