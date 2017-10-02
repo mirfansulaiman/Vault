@@ -30,7 +30,7 @@ low level <br>
 <html><a href="https://github.com/Microsoft/ChakraCore">docs</a></html>.<br>
 <html><a href="https://github.com/exp-sky/HitCon-2016-Windows-10-x64-edge-0day-and-exploit">hitcoin</a></html>.<br>
 <html><a href="https://github.com/goabout2/exploits">flash as</a></html>.<br>
-<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=733549">flash as</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=733549">br</a></html>.<br>
 <html><a href="https://github.com/xuechiyaobai/CVE-2017-7092-Exploit">safari</a></html>.<br>
 
 
@@ -48,7 +48,7 @@ low level <br>
 <html><a href="http://j00ru.vexillium.org/syscalls/win32k/32/">j00ru</a></html>.<br>
 
 # biz..
-<html><a href="https://github.com/ivanJo77/singidunum-projects">j00ru</a></html>.<br>
+<html><a href="https://github.com/ivanJo77/singidunum-projects">#</a></html>.<br>
 
 
 
