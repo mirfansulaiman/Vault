@@ -38,6 +38,8 @@ low level <br>
 <html><a href="https://github.com/xuechiyaobai/CVE-2017-7092-Exploit">safari</a></html>.<br>
 <html><a href="http://www.mista.nu/research/MANDT-kernelpool-PAPER.pdf">Q overwrite</a></html>.<br>
 <html><a href="http://xlab.tencent.com/en/2016/04/19/exception-in-exception/">tencent</a></html>.<br>
+<html><a href="http://xlab.tencent.com/en/2016/01/04/use-chakra-engine-again-to-bypass-cfg/">bypass-cfg</a></html>.<br>
+<html><a href="https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/">oob</a></html>.<br>
 
 
 # ShellCode:
@@ -53,12 +55,14 @@ low level <br>
 
 
 
+
 # SysCalls
 <html><a href="https://github.com/tinysec/windows-syscall-table">tinysec</a></html>.<br>
 <html><a href="http://j00ru.vexillium.org/syscalls/win32k/32/">j00ru</a></html>.<br>
 
 # biz..
 <html><a href="https://github.com/ivanJo77/singidunum-projects">#</a></html>.<br>
+<html><a href="https://github.com/yous/whiteglass">blog</a></html>.<br>
 
 # con
 <html><a href="https://infiltratecon.com/archives/">inf</a></html>.<br>
