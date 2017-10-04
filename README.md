@@ -22,7 +22,7 @@ low level <br>
 # exploit devel:
 
 <html><a href="https://labs.bluefrostsecurity.de/files/Abusing_GDI_for_ring0_exploit_primitives_Evolution_Slides.pdf">primitives</a></html>.<br>
-
+<html><a href="https://github.com/saelo/jscpwn/blob/master/pwn.html">js</a></html>.<br>
 
 <html><a href="https://github.com/sensepost/ms16-098">sensepost ms16-098</a></html>.<br>
 <html><a href="https://sensepost.com/blog/2017/exploiting-ms16-098-rgnobj-integer-overflow-on-windows-8.1-x64-bit-by-abusing-gdi-objects/">same same but diff</a></html>.<br>
