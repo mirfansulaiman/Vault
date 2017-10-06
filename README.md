@@ -5,6 +5,8 @@ tools kits &amp; code....
 
 # instrumentation
 low level <br>
+
+<html><a href="http://j00ru.vexillium.org/slides/2017/recon.pdf">bochspwn</a></html>.<br>
 <html><a href="https://github.com/tandasat/DdiMon">DdiMon</a></html>.<br>
 <html><a href="https://github.com/hzqst/Syscall-Monitor">build upon ddimon</a></html>.<br>
 <html><a href="http://j00ru.vexillium.org/?p=3295">j00ru</a></html>.<br>
@@ -21,8 +23,15 @@ low level <br>
 
 # exploit devel:
 
+js<br>
+
+<html><a href="https://www.zerodayinitiative.com/blog/2017/10/5/check-it-out-enforcement-of-bounds-checks-in-native-jit-code">zdi-jit</a>.<br>
+<html><a href="https://conference.hitb.org/hitbsecconf2017ams/materials/D1T2%20-%20Linan%20Hao%20and%20Long%20Liu%20-%20The%20Secret%20of%20ChakraCore.pdf">tencents-chakra</a>.<br>
+<html><a href="https://github.com/exp-sky/HitCon-2016-Windows-10-x64-edge-0day-and-exploit">expsky-mit</a></html>.<br>
 <html><a href="https://labs.bluefrostsecurity.de/files/Abusing_GDI_for_ring0_exploit_primitives_Evolution_Slides.pdf">primitives</a></html>.<br>
 <html><a href="https://github.com/saelo/jscpwn/blob/master/pwn.html">js</a></html>.<br>
+  
+kernel<br>
 
 <html><a href="https://github.com/sensepost/ms16-098">sensepost ms16-098</a></html>.<br>
 <html><a href="https://sensepost.com/blog/2017/exploiting-ms16-098-rgnobj-integer-overflow-on-windows-8.1-x64-bit-by-abusing-gdi-objects/">same same but diff</a></html>.<br>
