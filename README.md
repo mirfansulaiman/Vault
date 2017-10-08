@@ -25,6 +25,8 @@ low level <br>
 
 js<br>
 
+
+<html><a href="https://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html">uaf-exp</a>.<br>
 <html><a href="https://www.zerodayinitiative.com/blog/2017/10/5/check-it-out-enforcement-of-bounds-checks-in-native-jit-code">zdi-jit</a>.<br>
 <html><a href="https://conference.hitb.org/hitbsecconf2017ams/materials/D1T2%20-%20Linan%20Hao%20and%20Long%20Liu%20-%20The%20Secret%20of%20ChakraCore.pdf">tencents-chakra</a>.<br>
 <html><a href="https://github.com/exp-sky/HitCon-2016-Windows-10-x64-edge-0day-and-exploit">expsky-mit</a></html>.<br>
