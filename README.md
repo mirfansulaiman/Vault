@@ -25,7 +25,7 @@ low level <br>
 
 js<br>
 
-
+<html><a href="https://github.com/DaramG/Chrome/blob/master/CVE-2016-1653/CVE-2016-1653.html">chrome</a>.<br>
 <html><a href="https://github.com/xuechiyaobai/CVE-2017-7092-Exploit/blob/master/ooo.html">webkit</a>.<br>
 <html><a href="https://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html">uaf-exp</a>.<br>
 <html><a href="https://www.zerodayinitiative.com/blog/2017/10/5/check-it-out-enforcement-of-bounds-checks-in-native-jit-code">zdi-jit</a>.<br>
