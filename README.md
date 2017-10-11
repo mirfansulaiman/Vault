@@ -13,6 +13,8 @@ low level <br>
 <html><a href="https://github.com/felixwilhelm/xenpwn">xenpwn</a></html>.<br>
 <html><a href="http://www.iceswordlab.com/2017/06/14/Automatically-Discovering-Windows-Kernel-Information-Leak-Vulnerabilities_en/">icesword</a></html>.<br>
 <html><a href="https://github.com/Bareflank/extended_apis_example_hook">Bareflank</a></html>.<br>
+<html><a href="https://github.com/denandz/fuzzotron">proto-fuzz</a></html>.<br>
+
 
 # ida
 
