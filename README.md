@@ -22,6 +22,8 @@ tools kits &amp; code....
 <html><a href="https://github.com/mwrlabs/win_driver_plugin">mwr win_driver_plugin</a></html>.<br>
 <html><a href="https://github.com/nccgroup/DriverBuddy">ncc win_driver_plugin</a></html>.<br>
 <html><a href="https://github.com/fireeye/flare-floss">fireeye string extractor</a></html>.<br>
+<html><a href="https://github.com/vrtadmin/FIRST-plugin-ida">dev-new</a></html>.<br>
+
 
 
 # exploit devel:
