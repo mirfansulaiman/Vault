@@ -75,6 +75,8 @@ kernel<br>
 <html><a href="https://github.com/RKX1209/TinyLinux/blob/master/boot/loaderS2.asm">RKX1209</a></html>.<br>
 <html><a href="https://github.com/JonathanSalwan/Kaminou-Kernel/blob/b4020c8094522279612f2a7922080877ff6fbfd8/kernel/sys/handler_interrupt.asm">Salwan</a></html>.<br>
 <html><a href="https://github.com/odzhan/shellcode">nixmix</a></html>.<br>
+<html><a href="https://github.com/odzhan/tinycrypt">crypto</a></html>.<br>
+
 
 
 
