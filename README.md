@@ -33,6 +33,8 @@ tools kits &amp; code....
 
 js<br>
 
+
+<html><a href="https://github.com/theori-io/jscript9-typedarray-cfg">jscript9-typedarray-cfg</a>.<br>
 <html><a href="https://blogs.technet.microsoft.com/mmpc/2017/10/18/browser-security-beyond-sandboxing/?platform=hootsuite">microsoft pwn chrome!</a>.<br>
 <html><a href="https://github.com/DaramG/Chrome/blob/master/CVE-2016-1653/CVE-2016-1653.html">chrome</a>.<br>
 <html><a href="https://github.com/xuechiyaobai/CVE-2017-7092-Exploit/blob/master/ooo.html">webkit</a>.<br>
