@@ -5,6 +5,9 @@ tools kits &amp; code....
 
 # instrumentation
 
+<html><a href="https://github.com/koutto/ioctlbf">ioctlbf</a></html>.<br>
+<html><a href="https://github.com/richinseattle/EvolutionaryKernelFuzzing">krnlfuzz</a></html>.<br>
+<html><a href="https://labdcc.fceia.unr.edu.ar/~amista/article.pdf">kfuzz</a></html>.<br>
 <html><a href="http://j00ru.vexillium.org/slides/2017/recon.pdf">bochspwn</a></html>.<br>
 <html><a href="https://github.com/tandasat/DdiMon">DdiMon</a></html>.<br>
 <html><a href="https://github.com/hzqst/Syscall-Monitor">build upon ddimon</a></html>.<br>
