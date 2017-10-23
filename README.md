@@ -5,6 +5,11 @@ tools kits &amp; code....
 
 # instrumentation
 
+
+<html><a href="https://github.com/siberas/arpwn">adobe flash</a></html>.<br>
+<html><a href="https://github.com/mozilla/pdf.js">FFox fuzzer</a></html>.<br>
+<html><a href="https://github.com/zhuyue1314/fuzzer-1">old fuzzer</a></html>.<br>
+<html><a href="https://github.com/k0keoyo/Some-Kernel-Fuzzing-Paper">Some-Kernel-Fuzzing-Paper</a></html>.<br>
 <html><a href="https://github.com/koutto/ioctlbf">ioctlbf</a></html>.<br>
 <html><a href="https://github.com/richinseattle/EvolutionaryKernelFuzzing">krnlfuzz</a></html>.<br>
 <html><a href="https://labdcc.fceia.unr.edu.ar/~amista/article.pdf">kfuzz</a></html>.<br>
