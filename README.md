@@ -3,9 +3,15 @@
 # Resources
 tools kits &amp; code....
 
-# instrumentation
+# instrumentation & misc
 
 
+<html><a href="https://github.com/mozilla/shumway/tree/master/test/swfs/fuzz">swf-flash</a></html>.<br>
+<html><a href="https://github.com/qfox/SwfFuzzer">flash</a></html>.<br>
+<html><a href="https://github.com/google/domato">domato</a></html>.<br>
+<html><a href="https://github.com/v8/v8">v8os</a></html>.<br>
+<html><a href="https://docs.google.com/presentation/d/1mpRb6iYFcFgeQbvx-Slv6-3oh4ySoveh7Jd0e_S09Ec/edit#slide=id.g1fa8750b3c_0_1">v8.ppt</a></html>.<br>
+<html><a href="https://twitter.com/MayaLekova">v8</a></html>.<br>
 <html><a href="https://github.com/siberas/arpwn">adobe flash</a></html>.<br>
 <html><a href="https://github.com/mozilla/pdf.js">FFox fuzzer</a></html>.<br>
 <html><a href="https://github.com/zhuyue1314/fuzzer-1">old fuzzer</a></html>.<br>
