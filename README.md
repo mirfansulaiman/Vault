@@ -114,6 +114,12 @@ kernel<br>
 
 # con
 <html><a href="https://infiltratecon.com/archives/">inf</a></html>.<br>
+<html><a href="http://greatscottgadgets.com/pocorgtfo/">PoC||GTFO mirror</a></html>.<br>
+
+
+# post
+<html><a href="http://www.hexacorn.com/blog/2017/10/26/propagate-a-new-code-injection-trick/">cross process code injection</a></html>.<br>
+
 
 
 
