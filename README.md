@@ -109,9 +109,9 @@ kernel<br>
 <html><a href="https://github.com/tinysec/windows-syscall-table">tinysec</a></html>.<br>
 <html><a href="http://j00ru.vexillium.org/syscalls/win32k/32/">j00ru</a></html>.<br>
 
-# biz..
-<html><a href="https://github.com/ivanJo77/singidunum-projects">#</a></html>.<br>
-<html><a href="https://github.com/yous/whiteglass">blog</a></html>.<br>
+# Misc
+<html><a href="http://xlab.tencent.com/en/">Tencent-xlab</a></html>.<br>
+
 
 # con
 <html><a href="https://infiltratecon.com/archives/">inf</a></html>.<br>
