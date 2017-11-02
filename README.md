@@ -80,6 +80,7 @@ kernel<br>
 
 
 # ShellCode:
+<html><a href="http://shell-storm.org/shellcode/files/shellcode-700.php">llib32</a></html>.<br>
 <html><a href="https://github.com/peterferrie/win-exec-calc-shellcode">peter calc</a></html>.<br>
 <html><a href="https://github.com/SkyLined/w32-msgbox-shellcode">skylined</a></html>.<br>
 <html><a href="https://github.com/ssherei/asm">ssherei</a></html>.<br>
