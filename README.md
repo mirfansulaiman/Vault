@@ -33,7 +33,13 @@ tools kits &amp; code....
 <html><a href="https://github.com/denandz/fuzzotron">proto-fuzz</a></html>.<br>
 <html><a href="https://github.com/vivisect/vivisect/tree/master/vtrace">vtrace</a></html>.<br>
 
+# env-nix*
 
+<html><a href="https://fuzzing-project.org/tutorial3.html">setup(asan&afl)</a></html>.<br>
+<html><a href="http://lcamtuf.coredump.cx/afl/">afl</a></html>.<br>
+<html><a href="https://skia.org/user/build">build skia</a></html>.<br>
+<html><a href="https://github.com/google/skia/blob/master/site/user/build.md">build skia(2)</a></html>.<br>
+<html><a href="https://github.com/google/skia/blob/master/site/dev/testing/xsan.md">synthesizers</a></html>.<br>
 
 # ida
 
