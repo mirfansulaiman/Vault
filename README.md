@@ -116,7 +116,7 @@ kernel<br>
 # Misc
 <html><a href="http://xlab.tencent.com/en/">Tencent-xlab</a></html>.<br>
 <html><a href="https://cs.chromium.org/chromium/src/third_party/">Chromium-ext</a></html>.<br>
-
+<html><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-11767">CVE-2017-11767</a></html>.<br>
 
 
 # con
