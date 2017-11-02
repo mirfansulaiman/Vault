@@ -40,6 +40,8 @@ tools kits &amp; code....
 <html><a href="https://skia.org/user/build">build skia</a></html>.<br>
 <html><a href="https://github.com/google/skia/blob/master/site/user/build.md">build skia(2)</a></html>.<br>
 <html><a href="https://github.com/google/skia/blob/master/site/dev/testing/xsan.md">synthesizers</a></html>.<br>
+<html><a href="https://cs.chromium.org/chromium/src/third_party/skia/">skia-src</a></html>.<br>
+
 
 # ida
 
