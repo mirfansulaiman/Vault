@@ -62,6 +62,7 @@ js<br>
 kernel<br>
 
 
+<html><a href="http://www.greyhathacker.net/?p=990">_SEP_TOKEN_P.. arw</a></html>.<br>
 <html><a href="https://github.com/sensepost/ms16-098">sensepost ms16-098</a></html>.<br>
 <html><a href="https://github.com/siberas/CVE-2016-3309_Reloaded">duplicate^</a></html>.<br>
 <html><a href="https://sensepost.com/blog/2017/exploiting-ms16-098-rgnobj-integer-overflow-on-windows-8.1-x64-bit-by-abusing-gdi-objects/">same same but diff</a></html>.<br>
