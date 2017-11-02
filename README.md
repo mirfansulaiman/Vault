@@ -42,8 +42,8 @@ tools kits &amp; code....
 <html><a href="https://github.com/google/skia/blob/master/site/dev/testing/xsan.md">synthesizers</a></html>.<br>
 <html><a href="https://cs.chromium.org/chromium/src/third_party/skia/">skia-src</a></html>.<br>
 <html><a href="http://lcamtuf.coredump.cx/afl/demo/">dumb-input</a></html>.<br>
-
-
+<html><a href="https://llvm.org/docs/GettingStarted.html">llvm</a></html>.<br>
+<html><a href="https://askubuntu.com/questions/905205/installing-clang-5-0-and-using-c17">Clang</a></html>.<br>
 
 # ida
 
