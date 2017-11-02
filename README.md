@@ -111,6 +111,8 @@ kernel<br>
 
 # Misc
 <html><a href="http://xlab.tencent.com/en/">Tencent-xlab</a></html>.<br>
+<html><a href="https://cs.chromium.org/chromium/src/third_party/">Chromium-ext</a></html>.<br>
+
 
 
 # con
