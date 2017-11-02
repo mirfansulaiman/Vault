@@ -7,6 +7,7 @@ tools kits &amp; code....
 
 
 <html><a href="https://skia.org/user/build">build skia</a></html>.<br>
+<html><a href="https://github.com/google/skia/blob/master/site/user/build.md">build skia(2)</a></html>.<br>
 <html><a href="https://github.com/google/skia/blob/master/site/dev/testing/xsan.md">asan+skia</a></html>.<br>
 <html><a href="https://commondatastorage.googleapis.com/chromium-browser-asan/index.html?prefix=win32-release/">asan-win32</a></html>.<br>
 <html><a href="https://github.com/mozilla/shumway/tree/master/test/swfs/fuzz">swf-flash</a></html>.<br>
