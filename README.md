@@ -55,7 +55,7 @@ tools kits &amp; code....
 
 
 
-# exploit devel:
+# exp:
 
 js<br>
 
