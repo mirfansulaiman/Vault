@@ -78,6 +78,8 @@ Other:<br>
 <html><a href="https://github.com/exp-sky/HitCon-2016-Windows-10-x64-edge-0day-and-exploit">expsky-mit</a></html>.<br>
 <html><a href="https://labs.bluefrostsecurity.de/files/Abusing_GDI_for_ring0_exploit_primitives_Evolution_Slides.pdf">primitives</a></html>.<br>
 <html><a href="https://github.com/saelo/jscpwn/blob/master/pwn.html">js</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1011">CVE-2017-0037</a></html>.<br><br>
+ 
   
 kernel<br>
 
