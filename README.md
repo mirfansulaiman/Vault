@@ -139,6 +139,10 @@ kernel<br>
 <html><a href="http://www.hexacorn.com/blog/2017/10/26/propagate-a-new-code-injection-trick/">cross process code injection</a></html>.<br>
 
 
+# pgp
+<html><a href="http://x.co/6nFaf">3FA815D75393DE6B</a></html>.<br>
+
+
 
 
 
