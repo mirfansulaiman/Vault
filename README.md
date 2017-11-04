@@ -142,6 +142,8 @@ kernel<br>
 # pgp
 <html><a href="http://x.co/6nFaf">3FA815D75393DE6B</a></html>.<br>
 <html><a href="https://keys.mailvelope.com/pks/lookup?op=get&search=0x3FA815D75393DE6B">https://keys.mailvelope.com/pks/lookup?op=get&search=0x3FA815D75393DE6B</a></html>.<br>
+<html><a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x3FA815D75393DE6B">http://pgp.mit.edu/pks/lookup?op=get&search=0x3FA815D75393DE6B</a></html>.<br>
+
 
 
 
