@@ -59,7 +59,15 @@ tools kits &amp; code....
 
 js<br>
 
+Chakra:<br>
 
+<html><a href="https://github.com/Microsoft/ChakraCore/pull/3875">jsrt-new interface (maybe new bugs..)</a>.<br>
+<html><a href="https://github.com/Microsoft/ChakraCore/commit/bcf29dac47e565ec992309e3e8778033f89149ed">was-ala-chakra</a>.<br>
+<html><a href="https://github.com/Microsoft/ChakraCore/pull/4136/files">new-pull</a>.<br>
+<html><a href="http://asmjs.org/spec/latest/">asmjs/spec/latest</a>.<br>
+
+
+Other:<br>
 <html><a href="https://github.com/theori-io/jscript9-typedarray-cfg">jscript9-typedarray-cfg</a>.<br>
 <html><a href="https://blogs.technet.microsoft.com/mmpc/2017/10/18/browser-security-beyond-sandboxing/?platform=hootsuite">microsoft pwn chrome!</a>.<br>
 <html><a href="https://github.com/DaramG/Chrome/blob/master/CVE-2016-1653/CVE-2016-1653.html">chrome</a>.<br>
