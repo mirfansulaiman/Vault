@@ -79,6 +79,7 @@ Other:<br>
 <html><a href="https://labs.bluefrostsecurity.de/files/Abusing_GDI_for_ring0_exploit_primitives_Evolution_Slides.pdf">primitives</a></html>.<br>
 <html><a href="https://github.com/saelo/jscpwn/blob/master/pwn.html">js</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1011">CVE-2017-0037</a></html>.<br><br>
+<html><a href="https://github.com/4B5F5F4B/Exploits">4B5F5F4B</a>.<br><br>
  
   
 kernel<br>
