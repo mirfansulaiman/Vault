@@ -36,6 +36,7 @@ tools kits &amp; code....
 
 # env-nix*
 
+<html><a href="http://www.geeknik.net/9t76jygu1">afl</a></html>.<br>
 <html><a href="https://fuzzing-project.org/tutorial3.html">setup(asan&afl)</a></html>.<br>
 <html><a href="http://lcamtuf.coredump.cx/afl/">afl</a></html>.<br>
 <html><a href="https://skia.org/user/build">build skia</a></html>.<br>
