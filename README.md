@@ -104,6 +104,10 @@ kernel<br>
 <html><a href="http://xlab.tencent.com/en/2016/01/04/use-chakra-engine-again-to-bypass-cfg/">bypass-cfg</a></html>.<br>
 <html><a href="https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/">oob</a></html>.<br>
 
+# Office
+<html><a href="https://msdn.microsoft.com/en-us/library/office/dn906146.aspx">some interesting api's..</a></html>.<br>
+
+
 
 # ShellCode:
 <html><a href="http://shell-storm.org/shellcode/files/shellcode-700.php">llib32</a></html>.<br>
