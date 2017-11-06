@@ -61,6 +61,8 @@ js<br>
 
 Chakra:<br>
 
+
+<html><a href="https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-Your_Chakra_Is_Not_Aligned.pdf">natashenka</a>.<br>
 <html><a href="https://github.com/Microsoft/ChakraCore/pull/3875">jsrt-new interface (maybe new bugs..)</a>.<br>
 <html><a href="https://github.com/Microsoft/ChakraCore/commit/bcf29dac47e565ec992309e3e8778033f89149ed">was-ala-chakra</a>.<br>
 <html><a href="https://github.com/Microsoft/ChakraCore/pull/4136/files">new-pull</a>.<br>
@@ -148,6 +150,7 @@ kernel<br>
 
 # con
 <html><a href="https://infiltratecon.com/archives/">inf</a></html>.<br>
+<html><a href="https://recon.cx/">recon</a></html>.<br>
 <html><a href="http://greatscottgadgets.com/pocorgtfo/">PoC||GTFO mirror</a></html>.<br>
 
 
