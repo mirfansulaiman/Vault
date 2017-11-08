@@ -6,6 +6,7 @@ tools kits &amp; code....
 # instrumentation & misc
 
 
+<html><a href="https://github.com/maldiohead/rtffuzz">RTFfuzzer</a></html>.<br>
 <html><a href="https://github.com/lcatro/Fuzzing-ImageMagick">fuzzingImageMagick</a></html>.<br>
 <html><a href="https://github.com/orangetw/Tiny-URL-Fuzzer">urlfuzzer</a></html>.<br>
 <html><a href="http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html">from ssrf-to-rce</a></html>.<br>
