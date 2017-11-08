@@ -6,6 +6,9 @@ tools kits &amp; code....
 # instrumentation & misc
 
 
+<html><a href="https://github.com/orangetw/Tiny-URL-Fuzzer">urlfuzzer</a></html>.<br>
+<html><a href="http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html">from ssrf-to-rce</a></html>.<br>
+<html><a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf">^^same</a></html>.<br>
 <html><a href="https://skia.org/user/build">build skia</a></html>.<br>
 <html><a href="https://github.com/google/skia/blob/master/site/user/build.md">build skia(2)</a></html>.<br>
 <html><a href="https://github.com/google/skia/blob/master/site/dev/testing/xsan.md">asan+skia</a></html>.<br>
@@ -55,7 +58,7 @@ tools kits &amp; code....
 <html><a href="https://github.com/nccgroup/DriverBuddy">ncc win_driver_plugin</a></html>.<br>
 <html><a href="https://github.com/fireeye/flare-floss">fireeye string extractor</a></html>.<br>
 <html><a href="https://github.com/vrtadmin/FIRST-plugin-ida">dev-new</a></html>.<br>
-
+<html><a href="https://github.com/devttys0/ida/tree/master/plugins/alleycat">usefull</a></html>.<br>
 
 
 # exp:
@@ -91,6 +94,7 @@ Other:<br>
 kernel<br>
 
 
+<html><a href="https://github.com/ScottyBauer/Android_Kernel_CVE_POCs">androidKernelPocs</a></html>.<br>
 <html><a href="https://gdelugre.github.io/2017/11/06/samba-path-pivot-attack/">kSmbRceLinux</a></html>.<br>
 <html><a href="http://www.greyhathacker.net/?p=990">_SEP_TOKEN_P.. arw</a></html>.<br>
 <html><a href="https://github.com/sensepost/ms16-098">sensepost ms16-098</a></html>.<br>
