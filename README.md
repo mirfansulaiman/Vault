@@ -121,6 +121,7 @@ kernel<br>
 <html><a href="https://github.com/sensepost/ms16-098">sensepost ms16-098</a></html>.<br>
 <html><a href="https://github.com/siberas/CVE-2016-3309_Reloaded">duplicate^</a></html>.<br>
 <html><a href="https://sensepost.com/blog/2017/exploiting-ms16-098-rgnobj-integer-overflow-on-windows-8.1-x64-bit-by-abusing-gdi-objects/">same same but diff</a></html>.<br>
+ <html><a href="https://github.com/progmboy/cansecwest2017">progmboy/cansecwest2017</a></html>.<br>
 <html><a href="https://github.com/abatchy17/WindowsExploits/blob/master/MS17-010/41987.py">abatchy17</a></html>.<br>
 <html><a href="https://github.com/sensepost/gdi-palettes-exp/blob/master/MS17-017_PAL/MS17-017_PAL/Source.cpp">pal</a></html>.<br>
 <html><a href="https://dl.packetstormsecurity.net/1708-exploits/msedgechakraint-overflow.txt">dlpacketstorm</a></html>.<br>
