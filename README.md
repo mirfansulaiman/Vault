@@ -119,6 +119,8 @@ kernel<br>
 <html><a href="https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/">oob</a></html>.<br><br>
 
 Speciel:<br>
+
+<html><a href="https://github.com/wiire-a/CVE-2017-9476">Crypto</a></html>.<br>
 <html><a href="https://github.com/unamer/vmware_escape">vmware_escape</a></html>.<br><br>
 
 
