@@ -96,6 +96,7 @@ Other:<br>
 kernel<br>
 
 
+<html><a href="https://github.com/lcatro/CVE-2017-7269-Echo-PoC">winDnsClientRCE</a></html>.<br>
 <html><a href="https://github.com/theevilbit/kex">winKernelPrimitivesPython(pal)</a></html>.<br>
 <html><a href="https://github.com/ScottyBauer/Android_Kernel_CVE_POCs">androidKernelPocs</a></html>.<br>
 <html><a href="https://gdelugre.github.io/2017/11/06/samba-path-pivot-attack/">kSmbRceLinux</a></html>.<br>
