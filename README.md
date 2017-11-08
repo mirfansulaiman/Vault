@@ -91,6 +91,7 @@ Other:<br>
 kernel<br>
 
 
+<html><a href="https://gdelugre.github.io/2017/11/06/samba-path-pivot-attack/">kSmbRceLinux</a></html>.<br>
 <html><a href="http://www.greyhathacker.net/?p=990">_SEP_TOKEN_P.. arw</a></html>.<br>
 <html><a href="https://github.com/sensepost/ms16-098">sensepost ms16-098</a></html>.<br>
 <html><a href="https://github.com/siberas/CVE-2016-3309_Reloaded">duplicate^</a></html>.<br>
