@@ -65,6 +65,8 @@ tools kits &amp; code....
 <html><a href="https://github.com/fireeye/flare-floss">fireeye string extractor</a></html>.<br>
 <html><a href="https://github.com/vrtadmin/FIRST-plugin-ida">dev-new</a></html>.<br>
 <html><a href="https://github.com/devttys0/ida/tree/master/plugins/alleycat">usefull</a></html>.<br>
+<html><a href="https://github.com/joxeankoret/diaphora">joxeankoret/diaphora</a></html>.<br>
+
 
 
 # exp:
