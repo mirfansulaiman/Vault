@@ -75,6 +75,7 @@ Chakra:<br>
 
 
 
+<html><a href="https://github.com/exp-sky/HitCon-2016-Windows-10-x64-edge-0day-and-exploit">expsky</a>.<br>
 <html><a href="https://github.com/mxatone/mitigation-bounty/blob/master/poc_1_leakteb_and_rop.html">MxatoneMitagationCodeExecInEdge</a>.<br>
 <html><a href="https://speakerdeck.com/yukichen/from-out-of-memory-to-remote-code-execution">yuki-chen</a>.<br>
 <html><a href="https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-Your_Chakra_Is_Not_Aligned.pdf">natashenka</a>.<br>
@@ -85,6 +86,8 @@ Chakra:<br>
 
 
 Other:<br>
+
+<html><a href="https://github.com/xuechiyaobai/CVE-2017-7092-Exploit">S0rryMybad(safariPwn2Own)</a>.<br>
 <html><a href="https://github.com/theori-io/jscript9-typedarray-cfg">jscript9-typedarray-cfg</a>.<br>
 <html><a href="https://blogs.technet.microsoft.com/mmpc/2017/10/18/browser-security-beyond-sandboxing/?platform=hootsuite">microsoft pwn chrome!</a>.<br>
 <html><a href="https://github.com/DaramG/Chrome/blob/master/CVE-2016-1653/CVE-2016-1653.html">chrome</a>.<br>
