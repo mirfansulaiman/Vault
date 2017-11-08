@@ -38,6 +38,10 @@ tools kits &amp; code....
 <html><a href="https://github.com/Bareflank/extended_apis_example_hook">Bareflank</a></html>.<br>
 <html><a href="https://github.com/denandz/fuzzotron">proto-fuzz</a></html>.<br>
 <html><a href="https://github.com/vivisect/vivisect/tree/master/vtrace">vtrace</a></html>.<br>
+<html><a href="https://github.com/Rootkitsmm/Win32k-Fuzzer">Rootkitsmm/Win32k-Fuzzer</a></html>.<br>
+<html><a href="https://github.com/secfigo/Awesome-Fuzzing">secfigo/Awesome-Fuzzing</a></html>.<br>
+<html><a href="https://github.com/shellphish/fuzzer">shellphish/fuzzer/a></html>.<br>
+
 
 # env-nix*
 
@@ -70,6 +74,8 @@ js<br>
 Chakra:<br>
 
 
+
+<html><a href="https://github.com/mxatone/mitigation-bounty/blob/master/poc_1_leakteb_and_rop.html">MxatoneMitagationCodeExecInEdge</a>.<br>
 <html><a href="https://speakerdeck.com/yukichen/from-out-of-memory-to-remote-code-execution">yuki-chen</a>.<br>
 <html><a href="https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-Your_Chakra_Is_Not_Aligned.pdf">natashenka</a>.<br>
 <html><a href="https://github.com/Microsoft/ChakraCore/pull/3875">jsrt-new interface (maybe new bugs..)</a>.<br>
@@ -95,9 +101,17 @@ Other:<br>
   
 kernel<br>
 
-
-<html><a href="https://github.com/lcatro/CVE-2017-7269-Echo-PoC">winDnsClientRCE</a></html>.<br>
 <html><a href="https://github.com/theevilbit/kex">winKernelPrimitivesPython(pal)</a></html>.<br>
+<html><a href="https://github.com/xairy/linux-kernel-exploitation">xairy/linux-kernel-exploitation</a></html>.<br>
+<html><a href="https://github.com/xairy/kernel-exploits">xairy/kernel-exploits</a></html>.<br>
+<html><a href="https://github.com/lgandx/PoC">lgandx/PoC</a></html>.<br>
+<html><a href="https://github.com/enddo/awesome-windows-exploitation">awesome-windows-exploitation</a>.<br>
+<html><a href="https://github.com/SecWiki/linux-kernel-exploits">linux-kernel-exploits</a>.<br>
+<html><a href="https://github.com/SecWiki/windows-kernel-exploits">windows-kernel-exploits</a>.<br>
+<html><a href="https://github.com/55-AA/CVE-2016-3308">OldKExp</a>.<br>
+<html><a href="https://github.com/secmob/BadKernel">K0day+rce(win)</a>.<br>
+<html><a href="https://github.com/MortenSchenk/BHUSA2017">MortenSchenk</a>.<br>
+<html><a href="https://github.com/lcatro/CVE-2017-7269-Echo-PoC">winDnsClientRCE</a></html>.<br>
 <html><a href="https://github.com/ScottyBauer/Android_Kernel_CVE_POCs">androidKernelPocs</a></html>.<br>
 <html><a href="https://gdelugre.github.io/2017/11/06/samba-path-pivot-attack/">kSmbRceLinux</a></html>.<br>
 <html><a href="http://www.greyhathacker.net/?p=990">_SEP_TOKEN_P.. arw</a></html>.<br>
@@ -120,7 +134,10 @@ kernel<br>
 <html><a href="https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/">oob</a></html>.<br><br>
 
 Other:<br>
+<html><a href="https://github.com/artkond/cisco-rce">artkond/cisco-rce</a></html>.<br>
+<html><a href="https://github.com/joxeankoret/CVE-2017-7494">SmbRce</a></html>.<br>
 <html><a href="https://github.com/cyberheartmi9/CVE-2017-12617">ApacheTomcatRce</a></html>.<br><br>
+
 
 Speciel:<br>
 
