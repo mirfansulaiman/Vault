@@ -119,6 +119,9 @@ kernel<br>
 <html><a href="http://xlab.tencent.com/en/2016/01/04/use-chakra-engine-again-to-bypass-cfg/">bypass-cfg</a></html>.<br>
 <html><a href="https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/">oob</a></html>.<br><br>
 
+Other:<br>
+<html><a href="https://github.com/cyberheartmi9/CVE-2017-12617">ApacheTomcatRce</a></html>.<br><br>
+
 Speciel:<br>
 
 <html><a href="https://github.com/neex/gifoeb">ImageMagickDecoderInfoLeak</a></html>.<br>
@@ -127,9 +130,12 @@ Speciel:<br>
 
 
 pdf:<br>
+
 <html><a href="https://gendignoux.com/blog/2016/10/04/pdf-basics.html">api's//formats</a></html>.<br>
 <html><a href="http://insert-script.blogspot.co.il/2017/08/a-tale-about-foxit-reader-safe-reading.html">insertscript-foxit</a></html>.<br>
 <html><a href="https://github.com/corkami/pocs/tree/master/pdf">angea</a></html>.<br>
+<html><a href="https://github.com/JazzCore/python-pdfkit">Html2pdf</a></html>.<br>
+
 
 
 
