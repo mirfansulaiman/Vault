@@ -121,6 +121,7 @@ kernel<br>
 
 Speciel:<br>
 
+<html><a href="https://github.com/neex/gifoeb">ImageMagickDecoderInfoLeak</a></html>.<br>
 <html><a href="https://github.com/wiire-a/CVE-2017-9476">Crypto</a></html>.<br>
 <html><a href="https://github.com/unamer/vmware_escape">vmware_escape</a></html>.<br><br>
 
