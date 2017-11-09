@@ -210,6 +210,7 @@ pdf:<br>
 # con
 <html><a href="https://infiltratecon.com/archives/">inf</a></html>.<br>
 <html><a href="https://recon.cx/">recon</a></html>.<br>
+<html><a href="https://infocon.org/cons/">recon</a></html>.<br>
 <html><a href="http://greatscottgadgets.com/pocorgtfo/">PoC||GTFO mirror</a></html>.<br>
 
 
