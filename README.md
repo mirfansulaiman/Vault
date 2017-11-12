@@ -234,6 +234,8 @@ pdf:<br>
 # misc++
 
 <html><a href="https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353">registry-hide</a></html>.<br>
+<html><a href="https://twitter.com/Fox0x01/status/929814032118362113">ARM-Qemu</a></html>.<br>
+
 
 
 
