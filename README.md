@@ -76,6 +76,11 @@ tools kits &amp; code....
 
 js<br>
 
+v8<br>
+
+
+<html><a href="https://www.youtube.com/playlist?list=PL65pp6Tpk692lL85jvoOAT_e9Yuzz_nwA">youtube-v8</a>.<br>
+
 Chakra:<br>
 
 
@@ -211,9 +216,10 @@ pdf:<br>
 
 # con
 <html><a href="https://infiltratecon.com/archives/">inf</a></html>.<br>
-<html><a href="https://recon.cx/">recon</a></html>.<br>
+<html><a href="https://ruxcon.org.au/slides/">recon</a></html>.<br>
 <html><a href="https://infocon.org/cons/">recon</a></html>.<br>
 <html><a href="http://greatscottgadgets.com/pocorgtfo/">PoC||GTFO mirror</a></html>.<br>
+
 
 
 # post
@@ -225,6 +231,9 @@ pdf:<br>
 <html><a href="https://keys.mailvelope.com/pks/lookup?op=get&search=0x3FA815D75393DE6B">https://keys.mailvelope.com/pks/lookup?op=get&search=0x3FA815D75393DE6B</a></html>.<br>
 <html><a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x3FA815D75393DE6B">http://pgp.mit.edu/pks/lookup?op=get&search=0x3FA815D75393DE6B</a></html>.<br>
 
+# misc++
+
+<html><a href="https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353">registry-hide</a></html>.<br>
 
 
 
