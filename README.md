@@ -75,6 +75,8 @@ tools kits &amp; code....
 # exp:
 
 js<br>
+<html><a href="https://github.com/f0rgetting/Presentations/blob/master/POC%202017%20-%20Make%20LoadLibrary%20Great%20Again.pdf">Make LoadLibrary Great again</a>.<br>
+
 
 v8<br>
 <html><a href="https://www.youtube.com/playlist?list=PL65pp6Tpk692lL85jvoOAT_e9Yuzz_nwA">youtube-v8</a>.<br>
