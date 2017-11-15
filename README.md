@@ -175,6 +175,8 @@ pdf:<br>
 
 # Office
 <html><a href="https://msdn.microsoft.com/en-us/library/office/dn906146.aspx">some interesting api's..</a></html>.<br>
+<html><a href="https://embedi.com/files/white-papers/skeleton-in-the-closet.pdf">embedi RCE</a></html>.<br>
+
 
 
 
