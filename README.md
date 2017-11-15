@@ -46,6 +46,7 @@ tools kits &amp; code....
 # env-nix*
 
 
+<html><a href="https://github.com/WebAssembly/testsuite">WebAssembly/testsuite</a></html>.<br>
 <html><a href="http://www.geeknik.net/4rzj8nz7n">afl-setup</a></html>.<br>
 <html><a href="http://lcamtuf.coredump.cx/afl/README.txt">afl</a></html>.<br>
 <html><a href="http://slides.com/revskills/fzbrowsers#/38">revskills/fzbrowsers#/38</a></html>.<br>
