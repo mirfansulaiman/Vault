@@ -98,7 +98,7 @@ Chakra:<br>
 
 
 Other:<br>
-
+<html><a href="https://infiltratecon.com/archives/[Infiltrate]%20Geshev%20and%20Miller%20-%20Logic%20Bug%20Hunting%20in%20Chrome%20on%20Android.pdf">logicBugsCh-mwr</a>.<br>
 <html><a href="https://github.com/xuechiyaobai/CVE-2017-7092-Exploit">S0rryMybad(safariPwn2Own)</a>.<br>
 <html><a href="https://github.com/theori-io/jscript9-typedarray-cfg">jscript9-typedarray-cfg</a>.<br>
 <html><a href="https://blogs.technet.microsoft.com/mmpc/2017/10/18/browser-security-beyond-sandboxing/?platform=hootsuite">microsoft pwn chrome!</a>.<br>
