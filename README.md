@@ -164,6 +164,8 @@ Speciel:<br>
 <html><a href="https://github.com/unamer/vmware_escape">vmware_escape</a></html>.<br>
 <html><a href="https://github.com/xerub/extra_recipe">JailBreak</a></html>.<br><br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=766253">full-exp-chain-chromium-os</a></html>.<br>
+<html><a href="https://github.com/ArmisSecurity/blueborne/tree/master/android">android-wifi-rce</a></html>.<br>
+
 
 
 
