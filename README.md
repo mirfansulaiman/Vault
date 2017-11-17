@@ -113,6 +113,8 @@ Other:<br>
 <html><a href="https://github.com/saelo/jscpwn/blob/master/pwn.html">js</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1011">CVE-2017-0037</a></html>.<br><br>
 <html><a href="https://github.com/4B5F5F4B/Exploits">4B5F5F4B</a>.<br><br>
+ <html><a href="https://whereisk0shl.top/cve_2017_0037_ie11&edge_type_confusion.html">ie win7 tc p0</a>.<br><br>
+ 
  
   
 kernel<br>
