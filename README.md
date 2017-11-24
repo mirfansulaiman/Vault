@@ -264,6 +264,8 @@ pdf:<br>
 <html><a href="https://twitter.com/Fox0x01/status/929814032118362113">ARM-Qemu</a></html>.<br>
 <html><a href="https://pykd.codeplex.com/">pykd</a></html>.<br>
 <html><a href="https://github.com/bruce30262/TWindbg">TWindbg</a></html>.<br>
+<html><a href="https://cloud.google.com/compute/pricing">g-compute</a></html>.<br>
+
 
 
 
