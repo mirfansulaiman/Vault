@@ -50,6 +50,7 @@ tools kits &amp; code....
 # env-nix*
 
 
+<html><a href="https://archive.mozilla.org/pub/firefox/releases/58.0b5/jsshell/">spiderMonkey</a></html>.<br>
 <html><a href="https://hg.mozilla.org/">firefox-src</a></html>.<br>
 <html><a href="https://crossbowerbt.github.io/in_memory_fuzzing.html">GDB+py</a></html>.<br>
 <html><a href="https://cs.chromium.org/chromium/src/third_party/pdfium/fxjs/cjs_app.cpp?sq=package:chromium">chromium-src</a></html>.<br>
