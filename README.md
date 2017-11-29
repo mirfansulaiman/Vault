@@ -6,6 +6,7 @@ tools kits &amp; code....
 # instrumentation & misc
 
 
+<html><a href="https://speakerdeck.com/brn/source-to-binary-journey-of-v8-javascript-engine-english-version">v8-opt</a></html>.<br>
 <html><a href="https://prezi.com/caic9eqayy-o/bugid-automated-bug-analysis/">bugid-automated-bug-analysis</a></html>.<br>
 <html><a href="http://www.squarefree.com/2007/09/15/introducing-lithium-a-testcase-reduction-tool/">testcase-reduction</a></html>.<br>
 <html><a href="https://www.khronos.org/webgl/wiki/HandlingContextLost">webgl</a></html>.<br>
