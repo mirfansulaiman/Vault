@@ -186,6 +186,10 @@ Speciel:<br>
 <html><a href="https://github.com/xerub/extra_recipe">JailBreak</a></html>.<br><br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=766253">full-exp-chain-chromium-os</a></html>.<br>
 <html><a href="https://github.com/ArmisSecurity/blueborne/tree/master/android">android-wifi-rce</a></html>.<br>
+<html><a href="https://hvinternals.blogspot.co.il/2017/10/hyper-v-debugging-for-beginners-part-2.html">Hyper-v-short</a></html>.<br>
+<html><a href="https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine.pdf">Intel-Me-Code-exec</a></html>.<br><br>
+
+
 
 
 
