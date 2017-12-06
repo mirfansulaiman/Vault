@@ -130,6 +130,7 @@ Other:<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1011">CVE-2017-0037</a></html>.<br><br>
 <html><a href="https://github.com/4B5F5F4B/Exploits">4B5F5F4B</a>.<br><br>
  <html><a href="https://whereisk0shl.top/cve_2017_0037_ie11&edge_type_confusion.html">ie win7 tc p0</a>.<br><br>
+  
  
  
   
@@ -174,6 +175,7 @@ Other:<br>
 <html><a href="https://github.com/cyberheartmi9/CVE-2017-12617">ApacheTomcatRce</a></html>.<br><br>
 <html><a href="https://github.com/fishstiqz/poolinfo">fishstiqz/poolinfo</a></html>.<br><br>
 <html><a href="https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html">SomeAflTrivia</a></html>.<br>
+<html><a href="https://2017.zeronights.org/wp-content/uploads/materials/ZN17_Matt_Recent%20Exploit%20Trend%20and%20Mitigation,%20Detection%20Tactics-Current.pdf">windows-mitigations</a></html>.<br>
 
 
 
