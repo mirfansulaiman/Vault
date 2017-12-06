@@ -173,6 +173,8 @@ Other:<br>
 <html><a href="https://github.com/joxeankoret/CVE-2017-7494">SmbRce</a></html>.<br>
 <html><a href="https://github.com/cyberheartmi9/CVE-2017-12617">ApacheTomcatRce</a></html>.<br><br>
 <html><a href="https://github.com/fishstiqz/poolinfo">fishstiqz/poolinfo</a></html>.<br><br>
+<html><a href="https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html">SomeAflTrivia</a></html>.<br>
+
 
 
 
