@@ -95,6 +95,7 @@ tools kits &amp; code....
 
 js<br>
 <html><a href="https://github.com/f0rgetting/Presentations/blob/master/POC%202017%20-%20Make%20LoadLibrary%20Great%20Again.pdf">Make LoadLibrary Great again</a>.<br>
+<html><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView">dv</a>.<br>
 
 
 v8<br>
