@@ -6,6 +6,7 @@ tools kits &amp; code....
 # instrumentation & misc
 
 
+<html><a href="https://sno.phy.queensu.ca/~phil/exiftool/htmldump.html">Re-jpeg</a></html>.<br>
 <html><a href="https://msdn.microsoft.com/en-us/library/vs/alm/dn920144(v=vs.85).aspx">MsMp-API-cpp</a></html>.<br>
 <html><a href="https://stackoverflow.com/questions/40888849/windows-defender-antivirus-scan-from-c-sharp-accessviolation-exception/41285809#41285809">MsMp.NET</a></html>.<br>
 <html><a href="https://technet.microsoft.com/en-us/library/gg131918.aspx">scan-msmp-console</a></html>.<br>
