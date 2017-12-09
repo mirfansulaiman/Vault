@@ -93,7 +93,7 @@
 js<br>
 
 <html><a href="https://googleprojectzero.blogspot.co.il/2014/07/pwn4fun-spring-2014-safari-part-i_24.html">Ian Beer-(Safari-Browser-exploitation)</a>.<br>
-
+<html><a href="https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/">(v8-oob)->exp</a></html>.<br><br>
  <html><a href="https://phoenhex.re/">phoenhex.re</a>.<br>
 <html><a href="https://github.com/f0rgetting/Presentations/blob/master/POC%202017%20-%20Make%20LoadLibrary%20Great%20Again.pdf">Make LoadLibrary Great again</a>.<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView">dv</a>.<br>
@@ -169,7 +169,7 @@ kernel<br>
 <html><a href="http://www.mista.nu/research/MANDT-kernelpool-PAPER.pdf">Q overwrite</a></html>.<br>
 <html><a href="http://xlab.tencent.com/en/2016/04/19/exception-in-exception/">tencent</a></html>.<br>
 <html><a href="http://xlab.tencent.com/en/2016/01/04/use-chakra-engine-again-to-bypass-cfg/">bypass-cfg</a></html>.<br>
-<html><a href="https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/">oob</a></html>.<br><br>
+
 
 Other:<br>
 <html><a href="https://github.com/artkond/cisco-rce">artkond/cisco-rce</a></html>.<br>
