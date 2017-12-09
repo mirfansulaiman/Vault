@@ -96,6 +96,8 @@ js<br>
 <html><a href="https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/">(v8-oob)->exp</a></html>.<br>
  <html><a href="https://phoenhex.re/">phoenhex.re</a>.<br>
 <html><a href="https://github.com/f0rgetting/Presentations/blob/master/POC%202017%20-%20Make%20LoadLibrary%20Great%20Again.pdf">Make LoadLibrary Great again</a>.<br>
+ 
+ <html><a href="https://twitter.com/tobiklein">tc.codereview</a>.<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView">dv</a>.<br><br>
 
 
