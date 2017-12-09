@@ -129,8 +129,8 @@ Other:<br>
 <html><a href="https://github.com/exp-sky/HitCon-2016-Windows-10-x64-edge-0day-and-exploit">expsky-mit</a></html>.<br>
 <html><a href="https://labs.bluefrostsecurity.de/files/Abusing_GDI_for_ring0_exploit_primitives_Evolution_Slides.pdf">primitives</a></html>.<br>
 <html><a href="https://github.com/saelo/jscpwn/blob/master/pwn.html">js</a></html>.<br>
-<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1011">CVE-2017-0037</a></html>.<br><br>
-<html><a href="https://github.com/4B5F5F4B/Exploits">4B5F5F4B</a>.<br><br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1011">CVE-2017-0037</a></html>.<br>
+<html><a href="https://github.com/4B5F5F4B/Exploits">4B5F5F4B</a>.<br>
  <html><a href="https://whereisk0shl.top/cve_2017_0037_ie11&edge_type_confusion.html">ie win7 tc p0</a>.<br><br>
   
  
@@ -168,16 +168,16 @@ kernel<br>
 <html><a href="https://github.com/xuechiyaobai/CVE-2017-7092-Exploit">safari</a></html>.<br>
 <html><a href="http://www.mista.nu/research/MANDT-kernelpool-PAPER.pdf">Q overwrite</a></html>.<br>
 <html><a href="http://xlab.tencent.com/en/2016/04/19/exception-in-exception/">tencent</a></html>.<br>
-<html><a href="http://xlab.tencent.com/en/2016/01/04/use-chakra-engine-again-to-bypass-cfg/">bypass-cfg</a></html>.<br>
+<html><a href="http://xlab.tencent.com/en/2016/01/04/use-chakra-engine-again-to-bypass-cfg/">bypass-cfg</a></html>.<br><br>
 
 
-Other:<br>
+Other:<br><br>
 <html><a href="https://github.com/artkond/cisco-rce">artkond/cisco-rce</a></html>.<br>
 <html><a href="https://github.com/joxeankoret/CVE-2017-7494">SmbRce</a></html>.<br>
-<html><a href="https://github.com/cyberheartmi9/CVE-2017-12617">ApacheTomcatRce</a></html>.<br><br>
-<html><a href="https://github.com/fishstiqz/poolinfo">fishstiqz/poolinfo</a></html>.<br><br>
+<html><a href="https://github.com/cyberheartmi9/CVE-2017-12617">ApacheTomcatRce</a></html>.<br>
+<html><a href="https://github.com/fishstiqz/poolinfo">fishstiqz/poolinfo</a></html>.<br>
 <html><a href="https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html">SomeAflTrivia</a></html>.<br>
-<html><a href="https://2017.zeronights.org/wp-content/uploads/materials/ZN17_Matt_Recent%20Exploit%20Trend%20and%20Mitigation,%20Detection%20Tactics-Current.pdf">windows-mitigations</a></html>.<br>
+<html><a href="https://2017.zeronights.org/wp-content/uploads/materials/ZN17_Matt_Recent%20Exploit%20Trend%20and%20Mitigation,%20Detection%20Tactics-Current.pdf">windows-mitigations</a></html>.<br><br>
 
 
 
@@ -190,7 +190,7 @@ Speciel:<br>
 <html><a href="https://github.com/neex/gifoeb">ImageMagickDecoderInfoLeak</a></html>.<br>
 <html><a href="https://github.com/wiire-a/CVE-2017-9476">Crypto</a></html>.<br>
 <html><a href="https://github.com/unamer/vmware_escape">vmware_escape</a></html>.<br>
-<html><a href="https://github.com/xerub/extra_recipe">JailBreak</a></html>.<br><br>
+<html><a href="https://github.com/xerub/extra_recipe">JailBreak</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=766253">full-exp-chain-chromium-os</a></html>.<br>
 <html><a href="https://github.com/ArmisSecurity/blueborne/tree/master/android">android-wifi-rce</a></html>.<br>
 <html><a href="https://hvinternals.blogspot.co.il/2017/10/hyper-v-debugging-for-beginners-part-2.html">Hyper-v-short</a></html>.<br>
