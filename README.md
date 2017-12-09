@@ -1,8 +1,3 @@
-# Current Read...
-
-# Resources
-tools kits &amp; code....
-
 # instrumentation & misc
 
 
@@ -96,6 +91,8 @@ tools kits &amp; code....
 # exp:
 
 js<br>
+
+<html><a href="https://googleprojectzero.blogspot.co.il/2014/07/pwn4fun-spring-2014-safari-part-i_24.html">Ian Beer-(Safari-Browser-exploitation)</a>.<br>
 <html><a href="https://github.com/f0rgetting/Presentations/blob/master/POC%202017%20-%20Make%20LoadLibrary%20Great%20Again.pdf">Make LoadLibrary Great again</a>.<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView">dv</a>.<br>
 
