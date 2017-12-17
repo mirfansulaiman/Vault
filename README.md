@@ -142,7 +142,9 @@ Other:<br>
   <html><a href="https://blogs.windows.com/msedgedev/2017/03/23/strengthening-microsoft-edge-sandbox/">about the edge sandbox</a>.<br><br>
   
  
- 
+xss<br>
+<html><a href="https://bo0om.ru/chrome-and-safari-uxss">bo0om.ru</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1163&can=1&q=&start=1000">lokihardt</a></html>.<br><br>
   
 kernel<br>
 
