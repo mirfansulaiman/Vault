@@ -118,7 +118,9 @@ Chakra:<br>
 <html><a href="https://github.com/Microsoft/ChakraCore/pull/3875">jsrt-new interface (maybe new bugs..)</a>.<br>
 <html><a href="https://github.com/Microsoft/ChakraCore/commit/bcf29dac47e565ec992309e3e8778033f89149ed">was-ala-chakra</a>.<br>
 <html><a href="https://github.com/Microsoft/ChakraCore/pull/4136/files">new-pull</a>.<br>
+<html><a href="https://github.com/NULL1nj3cTOR/Microsoft-Edge-Windows-10-RCE-EXPLOIT">Microsoft-Edge-Windows-10-RCE-EXPLOIT</a>.<br>
 <html><a href="http://asmjs.org/spec/latest/">asmjs/spec/latest</a>.<br><br>
+ 
  
  Wasm:<br>
  
