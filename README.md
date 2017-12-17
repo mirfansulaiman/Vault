@@ -119,6 +119,10 @@ Chakra:<br>
 <html><a href="https://github.com/Microsoft/ChakraCore/commit/bcf29dac47e565ec992309e3e8778033f89149ed">was-ala-chakra</a>.<br>
 <html><a href="https://github.com/Microsoft/ChakraCore/pull/4136/files">new-pull</a>.<br>
 <html><a href="http://asmjs.org/spec/latest/">asmjs/spec/latest</a>.<br><br>
+ 
+ Wasm:<br>
+  <html><a href="https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm">compile-mdn</a>.<br>
+ <html><a href="https://www.lucidchart.com/techblog/2017/05/16/webassembly-overview-so-fast-so-fun-sorta-difficult/">tuto</a>.<br><br>
 
 
 Other:<br>
