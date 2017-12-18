@@ -124,6 +124,7 @@ Chakra:<br>
  
  Wasm:<br>
  
+ <html><a href="http://willhackett.blog/using-sharedarraybuffer-to-run-javascript-in-parallel">using-sharedarraybuffer-to-run-javascript-in-parallel</a>.<br>
   <html><a href="http://kripken.github.io/emscripten-site/docs/porting/connecting_cpp_and_javascript/Interacting-with-code.html">Interacting-with-code</a>.<br>
  <html><a href="https://kripken.github.io/emscripten-site/docs/getting_started/downloads.html">emscripten</a>.<br>
   <html><a href="https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm">compile-mdn</a>.<br>
