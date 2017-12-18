@@ -111,6 +111,7 @@ Chakra:<br>
 
 
 
+<html><a href="http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/">p2o-2016</a>.<br>
 <html><a href="https://github.com/exp-sky/HitCon-2016-Windows-10-x64-edge-0day-and-exploit">expsky</a>.<br>
 <html><a href="https://github.com/mxatone/mitigation-bounty/blob/master/poc_1_leakteb_and_rop.html">MxatoneMitagationCodeExecInEdge</a>.<br>
 <html><a href="https://speakerdeck.com/yukichen/from-out-of-memory-to-remote-code-execution">yuki-chen</a>.<br>
