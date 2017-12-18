@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import socket
+import socket 
 import os, time
 from struct import*
 
