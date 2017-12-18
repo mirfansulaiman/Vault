@@ -129,7 +129,9 @@ Chakra:<br>
   <html><a href="http://kripken.github.io/emscripten-site/docs/porting/connecting_cpp_and_javascript/Interacting-with-code.html">Interacting-with-code</a>.<br>
  <html><a href="https://kripken.github.io/emscripten-site/docs/getting_started/downloads.html">emscripten</a>.<br>
   <html><a href="https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm">compile-mdn</a>.<br>
- <html><a href="https://www.lucidchart.com/techblog/2017/05/16/webassembly-overview-so-fast-so-fun-sorta-difficult/">tuto</a>.<br><br>
+ <html><a href="https://www.lucidchart.com/techblog/2017/05/16/webassembly-overview-so-fast-so-fun-sorta-difficult/">tuto</a>.<br>
+  <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=752423">vuln-1</a>.<br>
+  <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=759624">vuln-2</a>.<br><br>
 
 
 Other:<br>
