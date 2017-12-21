@@ -227,22 +227,19 @@ Speciel:<br>
 
 pdf:<br>
 
+
 <html><a href="https://gendignoux.com/blog/2016/10/04/pdf-basics.html">api's//formats</a></html>.<br>
 <html><a href="http://insert-script.blogspot.co.il/2017/08/a-tale-about-foxit-reader-safe-reading.html">insertscript-foxit</a></html>.<br>
 <html><a href="https://github.com/corkami/pocs/tree/master/pdf">angea</a></html>.<br>
 <html><a href="https://github.com/JazzCore/python-pdfkit">Html2pdf</a></html>.<br>
+<html><a href="https://github.com/tomcarver/pdf-tools">tomcarver/pdf-tools</a></html>.<br><br>
 
-
-
-
-# Office
+Office:<br>
 <html><a href="https://msdn.microsoft.com/en-us/library/office/dn906146.aspx">some interesting api's..</a></html>.<br>
-<html><a href="https://embedi.com/files/white-papers/skeleton-in-the-closet.pdf">embedi RCE</a></html>.<br>
+<html><a href="https://embedi.com/files/white-papers/skeleton-in-the-closet.pdf">embedi RCE</a></html>.<br><br>
 
 
-
-
-# ShellCode:
+ShellCode:<br>
 <html><a href="http://shell-storm.org/shellcode/files/shellcode-700.php">llib32</a></html>.<br>
 <html><a href="https://github.com/peterferrie/win-exec-calc-shellcode">peter calc</a></html>.<br>
 <html><a href="https://github.com/SkyLined/w32-msgbox-shellcode">skylined</a></html>.<br>
@@ -257,54 +254,39 @@ pdf:<br>
 <html><a href="https://github.com/RKX1209/TinyLinux/blob/master/boot/loaderS2.asm">RKX1209</a></html>.<br>
 <html><a href="https://github.com/JonathanSalwan/Kaminou-Kernel/blob/b4020c8094522279612f2a7922080877ff6fbfd8/kernel/sys/handler_interrupt.asm">Salwan</a></html>.<br>
 <html><a href="https://github.com/odzhan/shellcode">nixmix</a></html>.<br>
-<html><a href="https://github.com/odzhan/tinycrypt">crypto</a></html>.<br>
+<html><a href="https://github.com/odzhan/tinycrypt">crypto</a></html>.<br><br>
 
-
-
-
-
-
-
-
-
-
-
-# SysCalls
+SysCalls:<br>
 <html><a href="https://github.com/tinysec/windows-syscall-table">tinysec</a></html>.<br>
 <html><a href="http://j00ru.vexillium.org/syscalls/win32k/32/">j00ru</a></html>.<br>
 
-# Misc
+Misc:<br>
 <html><a href="http://xlab.tencent.com/en/">Tencent-xlab</a></html>.<br>
 <html><a href="https://cs.chromium.org/chromium/src/third_party/">Chromium-ext</a></html>.<br>
-<html><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-11767">CVE-2017-11767</a></html>.<br>
+<html><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-11767">CVE-2017-11767</a></html>.<br><br>
 
-
-# con
+con:<br>
 <html><a href="https://infiltratecon.com/archives/">inf</a></html>.<br>
 <html><a href="https://ruxcon.org.au/slides/">recon</a></html>.<br>
 <html><a href="https://infocon.org/cons/">a big thread</a></html>.<br>
 <html><a href="http://greatscottgadgets.com/pocorgtfo/">PoC||GTFO mirror</a></html>.<br>
-<html><a href="https://www.slideshare.net/pacsecjp">pacsecJp</a></html>.<br>
+<html><a href="https://www.slideshare.net/pacsecjp">pacsecJp</a></html>.<br><br>
 
+post<br>
+<html><a href="http://www.hexacorn.com/blog/2017/10/26/propagate-a-new-code-injection-trick/">cross process code injection</a></html>.<br><br>
 
-
-
-# post
-<html><a href="http://www.hexacorn.com/blog/2017/10/26/propagate-a-new-code-injection-trick/">cross process code injection</a></html>.<br>
-
-
-# pgp
+pgp<br>
 <html><a href="http://x.co/6nFaf">3FA815D75393DE6B</a></html>.<br>
 <html><a href="https://keys.mailvelope.com/pks/lookup?op=get&search=0x3FA815D75393DE6B">https://keys.mailvelope.com/pks/lookup?op=get&search=0x3FA815D75393DE6B</a></html>.<br>
-<html><a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x3FA815D75393DE6B">http://pgp.mit.edu/pks/lookup?op=get&search=0x3FA815D75393DE6B</a></html>.<br>
+<html><a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x3FA815D75393DE6B">http://pgp.mit.edu/pks/lookup?op=get&search=0x3FA815D75393DE6B</a></html>.<br><br>
 
-# misc++
+misc++<br>
 
 <html><a href="https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353">registry-hide</a></html>.<br>
 <html><a href="https://twitter.com/Fox0x01/status/929814032118362113">ARM-Qemu</a></html>.<br>
 <html><a href="https://pykd.codeplex.com/">pykd</a></html>.<br>
 <html><a href="https://github.com/bruce30262/TWindbg">TWindbg</a></html>.<br>
-<html><a href="https://cloud.google.com/compute/pricing">g-compute</a></html>.<br>
+<html><a href="https://cloud.google.com/compute/pricing">g-compute</a></html>.<br><br>
 
 
 
