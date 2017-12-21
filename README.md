@@ -116,12 +116,9 @@ Chakra:<br>
 <html><a href="https://github.com/exp-sky/HitCon-2016-Windows-10-x64-edge-0day-and-exploit">expsky</a>.<br>
 <html><a href="https://github.com/mxatone/mitigation-bounty/blob/master/poc_1_leakteb_and_rop.html">MxatoneMitagationCodeExecInEdge</a>.<br>
 <html><a href="https://speakerdeck.com/yukichen/from-out-of-memory-to-remote-code-execution">yuki-chen</a>.<br>
-<html><a href="https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-Your_Chakra_Is_Not_Aligned.pdf">natashenka</a>.<br>
-<html><a href="https://github.com/Microsoft/ChakraCore/pull/3875">jsrt-new interface (maybe new bugs..)</a>.<br>
-<html><a href="https://github.com/Microsoft/ChakraCore/commit/bcf29dac47e565ec992309e3e8778033f89149ed">was-ala-chakra</a>.<br>
-<html><a href="https://github.com/Microsoft/ChakraCore/pull/4136/files">new-pull</a>.<br>
+<html><a href="https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-Your_Chakra_Is_Not_Aligned.pdf">natashenka-Your_Chakra_Is_Not_Aligned</a>.<br>
+<html><a href="https://github.com/Microsoft/ChakraCore/blob/9e6f4e74dcd248c2745dc7cd83691d29beb1a56c/lib/Runtime/Library/CompoundString.cpp#L481">oom</a>.<br>
 <html><a href="https://github.com/NULL1nj3cTOR/Microsoft-Edge-Windows-10-RCE-EXPLOIT">Microsoft-Edge-Windows-10-RCE-EXPLOIT</a>.<br>
-<html><a href="http://asmjs.org/spec/latest/">asmjs/spec/latest</a>.<br><br>
  
  
  Wasm:<br>
