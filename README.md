@@ -200,6 +200,8 @@ Other:<br><br>
 <html><a href="https://github.com/fishstiqz/poolinfo">fishstiqz/poolinfo</a></html>.<br>
 <html><a href="https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html">SomeAflTrivia</a></html>.<br>
 <html><a href="https://2017.zeronights.org/wp-content/uploads/materials/ZN17_Matt_Recent%20Exploit%20Trend%20and%20Mitigation,%20Detection%20Tactics-Current.pdf">windows-mitigations</a></html>.<br><br>
+<html><a href="https://blog.scrt.ch/2017/07/10/numerous-swiss-domain-names-temporarily-hijacked/">scrt@dns-hijack</a></html>.<br>
+
 
 
 
