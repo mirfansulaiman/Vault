@@ -209,7 +209,7 @@ Other:<br><br>
 
 
 Speciel:<br>
-<html><a href="https://srcincite.io/blog/2016/12/13/word-up-microsoft-word-onetabledocumentstream-underflow.html">office-word@mr_me</a></html>.<br>
+
 <html><a href="https://www.blackhat.com/docs/eu-17/materials/eu-17-Mandal-The-Great-Escapes-Of-Vmware-A-Retrospective-Case-Study-Of-Vmware-G2H-Escape-Vulnerabilities.pdf">vmware-attack-surface</a></html>.<br>
 <html><a href="https://www.youtube.com/watch?v=B1UOGCffIEI">ff-exp</a></html>.<br>
 <html><a href="https://github.com/neex/gifoeb">ImageMagickDecoderInfoLeak</a></html>.<br>
@@ -240,6 +240,7 @@ pdf:<br>
 <html><a href="https://github.com/tomcarver/pdf-tools">tomcarver/pdf-tools</a></html>.<br><br>
 
 Office:<br>
+<html><a href="https://srcincite.io/blog/2016/12/13/word-up-microsoft-word-onetabledocumentstream-underflow.html">office-word@mr_me</a></html>.<br>
 <html><a href="https://msdn.microsoft.com/en-us/library/office/dn906146.aspx">some interesting api's..</a></html>.<br>
 <html><a href="https://embedi.com/files/white-papers/skeleton-in-the-closet.pdf">embedi RCE</a></html>.<br><br>
 
