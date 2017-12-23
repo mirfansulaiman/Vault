@@ -150,6 +150,8 @@ Other:<br>
 <html><a href="https://github.com/4B5F5F4B/Exploits">4B5F5F4B</a>.<br>
  <html><a href="https://whereisk0shl.top/cve_2017_0037_ie11&edge_type_confusion.html">ie win7 tc p0</a>.<br>
   <html><a href="https://blogs.windows.com/msedgedev/2017/03/23/strengthening-microsoft-edge-sandbox/">about the edge sandbox</a>.<br><br>
+   <html><a href="https://gist.github.com/crowell/cde416575a12f63cb226">4B5F5F4B</a>.<br><br>
+   
   
  
 xss<br>
@@ -199,8 +201,8 @@ Other:<br><br>
 <html><a href="https://github.com/cyberheartmi9/CVE-2017-12617">ApacheTomcatRce</a></html>.<br>
 <html><a href="https://github.com/fishstiqz/poolinfo">fishstiqz/poolinfo</a></html>.<br>
 <html><a href="https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html">SomeAflTrivia</a></html>.<br>
-<html><a href="https://2017.zeronights.org/wp-content/uploads/materials/ZN17_Matt_Recent%20Exploit%20Trend%20and%20Mitigation,%20Detection%20Tactics-Current.pdf">windows-mitigations</a></html>.<br><br>
-<html><a href="https://blog.scrt.ch/2017/07/10/numerous-swiss-domain-names-temporarily-hijacked/">scrt@dns-hijack</a></html>.<br>
+<html><a href="https://2017.zeronights.org/wp-content/uploads/materials/ZN17_Matt_Recent%20Exploit%20Trend%20and%20Mitigation,%20Detection%20Tactics-Current.pdf">windows-mitigations</a></html>.<br>
+<html><a href="https://blog.scrt.ch/2017/07/10/numerous-swiss-domain-names-temporarily-hijacked/">scrt@dns-hijack</a></html>.<br><br>
 
 
 
@@ -218,8 +220,8 @@ Speciel:<br>
 <html><a href="https://github.com/ArmisSecurity/blueborne/tree/master/android">android-wifi-rce</a></html>.<br>
 <html><a href="https://hvinternals.blogspot.co.il/2017/10/hyper-v-debugging-for-beginners-part-2.html">Hyper-v-short</a></html>.<br>
 <html><a href="https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine.pdf">Intel-Me-Code-exec</a></html>.<br>
-<html><a href="https://www.slideshare.net/MSbluehat/bluehat-v17-out-of-the-truman-show-vm-escape-in-vmware-gracefully">Qihoo-vmware-escape</a></html>.<br><br>
-<html><a href="http://blog.frizn.fr/bkpctf-2016/qwn2own-bkpctf16">browser@jit-gen</a></html>.<br>
+<html><a href="https://www.slideshare.net/MSbluehat/bluehat-v17-out-of-the-truman-show-vm-escape-in-vmware-gracefully">Qihoo-vmware-escape</a></html>.<br>
+<html><a href="http://blog.frizn.fr/bkpctf-2016/qwn2own-bkpctf16">browser@jit-gen</a></html>.<br><br>
 
 
 
