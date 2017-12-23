@@ -219,6 +219,7 @@ Speciel:<br>
 <html><a href="https://hvinternals.blogspot.co.il/2017/10/hyper-v-debugging-for-beginners-part-2.html">Hyper-v-short</a></html>.<br>
 <html><a href="https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine.pdf">Intel-Me-Code-exec</a></html>.<br>
 <html><a href="https://www.slideshare.net/MSbluehat/bluehat-v17-out-of-the-truman-show-vm-escape-in-vmware-gracefully">Qihoo-vmware-escape</a></html>.<br><br>
+<html><a href="http://blog.frizn.fr/bkpctf-2016/qwn2own-bkpctf16">browser@jit-gen</a></html>.<br>
 
 
 
