@@ -156,6 +156,9 @@ Other:<br>
  
 xss<br>
 
+
+<html><a href="http://blog.malerisch.net/2017/04/uxss-mcafee-endpoint-security-and-site-advisor-cve-2016-8011.html">mcafee-UXSS</a></html>.<br>
+<html><a href="https://events.ccc.de/congress/2006/Fahrplan/attachments/1158-Subverting_Ajax.pdf">subverting ajax</a></html>.<br>
 <html><a href="https://medium.com/@auxy233/the-design-and-implementation-of-ssrf-attack-framework-550e9fda16ea">SSRF</a></html>.<br>
 <html><a href="https://bo0om.ru/chrome-and-safari-uxss">bo0om.ru</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1163&can=1&q=&start=1000">lokihardt</a></html>.<br><br>
