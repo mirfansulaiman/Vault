@@ -198,9 +198,26 @@ kernel<br>
 <html><a href="http://www.mista.nu/research/MANDT-kernelpool-PAPER.pdf">Q overwrite</a></html>.<br>
 <html><a href="http://xlab.tencent.com/en/2016/04/19/exception-in-exception/">tencent</a></html>.<br>
 <html><a href="http://xlab.tencent.com/en/2016/01/04/use-chakra-engine-again-to-bypass-cfg/">bypass-cfg</a></html>.<br><br>
+ 
+android:<br>
+
+<html><a href="https://googleprojectzero.blogspot.co.il/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html">broadcoms-wi-fi_4-P0</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1046#c9">P0-baseband-exp</a></html>.<br>
+<html><a href="https://googleprojectzero.blogspot.co.il/2017/07/trust-issues-exploiting-trustzone-tees.html">TEES-P0</a></html>.<br>
+<html><a href="https://pleasestopnamingvulnerabilities.com/">wifi-cr</a></html>.<br>
+<html><a href="https://github.com/aosp-mirror">Android Open Source Project</a></html>.<br>
+<html><a href="https://source.android.com/setup/downloading">source-andr</a></html>.<br>
+<html><a href="https://github.com/ele7enxxh/android-afl">andr-AFL</a></html>.<br>
+<html><a href="https://www.blackhat.com/docs/eu-15/materials/eu-15-Blanda-Fuzzing-Android-A-Recipe-For-Uncovering-Vulnerabilities-Inside-System-Components-In-Android-wp.pdf">fuzzing android syscalls</a></html>.<br>
+<html><a href="http://bits-please.blogspot.co.il/2016/06/trustzone-kernel-privilege-escalation.html">bits-please.blogspot</a></html>.<br>
+<html><a href="https://azeria-labs.com/debugging-with-gdb-introduction/">azeria</a></html>.<br>
+<html><a href="https://github.com/ScottyBauer/Android_Kernel_CVE_POCs">ScottyBauer</a></html>.<br>
+<html><a href="https://speakerdeck.com/retme7/rooting-every-android-from-extension-to-exploitation">keen-lab</a></html>.<br>
+<html><a href="https://labs.mwrinfosecurity.com/assets/BlogFiles/Geshev-and-Miller-Logic-Bug-Hunting-in-Chrome-on-Android.pdf">mwr-labs</a></html>.<br><br>
 
 
 Other:<br><br>
+<html><a href="https://pleasestopnamingvulnerabilities.com/integers.html">integers ovf</a></html>.<br>
 <html><a href="https://github.com/artkond/cisco-rce">artkond/cisco-rce</a></html>.<br>
 <html><a href="https://github.com/joxeankoret/CVE-2017-7494">SmbRce</a></html>.<br>
 <html><a href="https://github.com/cyberheartmi9/CVE-2017-12617">ApacheTomcatRce</a></html>.<br>
