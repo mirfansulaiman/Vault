@@ -211,6 +211,7 @@ android:<br>
 <html><a href="https://www.blackhat.com/docs/eu-15/materials/eu-15-Blanda-Fuzzing-Android-A-Recipe-For-Uncovering-Vulnerabilities-Inside-System-Components-In-Android-wp.pdf">fuzzing android syscalls</a></html>.<br>
 <html><a href="http://bits-please.blogspot.co.il/2016/06/trustzone-kernel-privilege-escalation.html">bits-please.blogspot</a></html>.<br>
 <html><a href="https://azeria-labs.com/debugging-with-gdb-introduction/">azeria</a></html>.<br>
+<html><a href="http://ge0n0sis.github.io/">/ge0n0sis</a></html>.<br>
 <html><a href="https://github.com/ScottyBauer/Android_Kernel_CVE_POCs">ScottyBauer</a></html>.<br>
 <html><a href="https://speakerdeck.com/retme7/rooting-every-android-from-extension-to-exploitation">keen-lab</a></html>.<br>
 <html><a href="https://labs.mwrinfosecurity.com/assets/BlogFiles/Geshev-and-Miller-Logic-Bug-Hunting-in-Chrome-on-Android.pdf">mwr-labs</a></html>.<br><br>
