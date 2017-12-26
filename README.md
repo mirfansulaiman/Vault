@@ -207,6 +207,7 @@ kernel<br>
 android:<br>
 
 
+<html><a href="https://github.com/jacktang310/KernelDebugOnNexus6P">KernelDebugOnNexus6P</a></html>.<br>
 <html><a href="http://blog.exodusintel.com/2017/07/26/broadpwn/">broadpwn</a></html>.<br>
 <html><a href="https://www.youtube.com/watch?v=L2Mo8WcmmZo">reversing firmware-andr</a></html>.<br>
 <html><a href="https://speakerdeck.com/retme7/the-art-of-exploiting-unconventional-use-after-free-bugs-in-android-kernel">UAF-kernel-and-keen-lab</a></html>.<br>
