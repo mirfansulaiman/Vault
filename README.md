@@ -202,6 +202,7 @@ kernel<br>
 android:<br>
 
 
+<html><a href="https://speakerdeck.com/retme7/the-art-of-exploiting-unconventional-use-after-free-bugs-in-android-kernel">UAF-kernel-and-keen-lab</a></html>.<br>
 <html><a href="https://comsecuris.com/blog/posts/luaqemu_bcm_wifi/">luaqemu_bcm_wifi</a></html>.<br>
 <html><a href="https://github.com/jiayy/android_vuln_poc-exp">android_vuln_poc-exp</a></html>.<br>
 <html><a href="https://googleprojectzero.blogspot.co.il/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html">broadcoms-wi-fi_4-P0</a></html>.<br>
