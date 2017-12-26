@@ -133,6 +133,8 @@ Chakra:<br>
 
 Other:<br>
 
+
+<html><a href="https://github.com/secmob/pwnfest2016">chrome-pwnfest2016</a>.<br>
 <html><a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/?page=1&q=angle">edgeangle</a></html>.<br>
 <html><a href="https://infiltratecon.com/archives/[Infiltrate]%20Geshev%20and%20Miller%20-%20Logic%20Bug%20Hunting%20in%20Chrome%20on%20Android.pdf">logicBugsCh-mwr</a>.<br>
 <html><a href="https://github.com/xuechiyaobai/CVE-2017-7092-Exploit">S0rryMybad(safariPwn2Own)</a>.<br>
