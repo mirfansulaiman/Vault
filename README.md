@@ -202,6 +202,7 @@ kernel<br>
 android:<br>
 
 
+<html><a href="https://www.youtube.com/watch?v=L2Mo8WcmmZo">reversing firmware-andr</a></html>.<br>
 <html><a href="https://speakerdeck.com/retme7/the-art-of-exploiting-unconventional-use-after-free-bugs-in-android-kernel">UAF-kernel-and-keen-lab</a></html>.<br>
 <html><a href="https://comsecuris.com/blog/posts/luaqemu_bcm_wifi/">luaqemu_bcm_wifi</a></html>.<br>
 <html><a href="https://github.com/jiayy/android_vuln_poc-exp">android_vuln_poc-exp</a></html>.<br>
