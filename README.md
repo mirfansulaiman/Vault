@@ -104,6 +104,9 @@ js<br>
 
 v8<br><br>
 
+
+<html><a href="https://github.com/secmob/pwnfest2016">secmob-private-prop-v8</a>.<br>
+<html><a href="https://github.com/secmob/cansecwest2016">secmob-oob</a>.<br>
 <html><a href="https://twitter.com/fhinkel/status/898184918286643201">v8-bytecode</a>.<br>
 <html><a href="https://www.youtube.com/playlist?list=PL65pp6Tpk692lL85jvoOAT_e9Yuzz_nwA">youtube-v8</a>.<br><br>
 
