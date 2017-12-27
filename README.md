@@ -137,7 +137,7 @@ Chakra:<br>
 
 Other:<br>
 
-
+<html><a href="https://github.com/Cryptogenic/Exploit-Writeups/blob/master/PS4/4.0x%20WebKit%20Exploit%20Writeup.md">webkit exploit writeup</a>.<br>
 <html><a href="https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit/blob/master/expl.js">webkit-oob-exploit</a>.<br>
 <html><a href="https://github.com/secmob/pwnfest2016">chrome-pwnfest2016</a>.<br>
 <html><a href="https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/?page=1&q=angle">edgeangle</a></html>.<br>
