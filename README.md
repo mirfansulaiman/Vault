@@ -52,6 +52,7 @@
 # env-nix*
 
 
+<html><a href="http://how-to.wikia.com/wiki/How_to_disable_Firefox%27s_session_restore_crash_recovery_feature">How_to_disable_Firefox%27s_session_restore_crash_recovery_feature</a></html>.<br>
 <html><a href="https://github.com/MozillaSecurity/dharma">dharma/a></html>.<br>
 <html><a href="https://github.com/MozillaSecurity/framboise">webGl/a></html>.<br>
 <html><a href="https://archive.mozilla.org/pub/firefox/releases/58.0b5/jsshell/">spiderMonkey</a></html>.<br>
