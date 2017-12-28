@@ -92,6 +92,8 @@
 
 js<br>
 
+
+<html><a href="https://github.com/tarafans/CTF-writeup/blob/master/33c3ctf2016/solve.html">firefox-ctf</a>.<br>
  <html><a href="http://www.phrack.org/papers/attacking_javascript_engines.html">saelo->phrack</a></html>.<br>
  <html><a href="https://googleprojectzero.blogspot.co.il/2017/12/apacolypse-now-exploiting-windows-10-in_18.html">p0-jscript.dll</a>.<br>
 <html><a href="https://googleprojectzero.blogspot.co.il/2014/07/pwn4fun-spring-2014-safari-part-i_24.html">Ian Beer-(Safari-Browser-exploitation)</a>.<br>
