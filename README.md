@@ -125,6 +125,10 @@ Chakra:<br>
 <html><a href="https://github.com/Microsoft/ChakraCore/blob/9e6f4e74dcd248c2745dc7cd83691d29beb1a56c/lib/Runtime/Library/CompoundString.cpp#L481">oom</a>.<br>
 <html><a href="https://github.com/NULL1nj3cTOR/Microsoft-Edge-Windows-10-RCE-EXPLOIT">Microsoft-Edge-Windows-10-RCE-EXPLOIT</a>.<br><br>
  
+ edge:<br>
+ <html><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxiaW5nc3Vuc2VjfGd4OmRlM2U4ZDNhNmNjZTFjNA">bypass cfg++</a>.<br><br>
+ 
+ 
  
  Wasm:<br>
  
