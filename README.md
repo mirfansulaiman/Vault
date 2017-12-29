@@ -163,8 +163,8 @@ Other:<br>
 <html><a href="https://github.com/4B5F5F4B/Exploits">4B5F5F4B</a>.<br>
  <html><a href="https://whereisk0shl.top/cve_2017_0037_ie11&edge_type_confusion.html">ie win7 tc p0</a>.<br>
   <html><a href="https://blogs.windows.com/msedgedev/2017/03/23/strengthening-microsoft-edge-sandbox/">about the edge sandbox</a>.<br>
-   <html><a href="https://gist.github.com/crowell/cde416575a12f63cb226">pwn-with-red</a>.<br><br>
-   
+   <html><a href="https://gist.github.com/crowell/cde416575a12f63cb226">pwn-with-red</a>. <html><br>
+    <html><a href="https://twitter.com/brainsmoke/status/946548344498909184">34c3-bypass aslr side-channel</a>.<html><br>
   
  
 xss<br>
