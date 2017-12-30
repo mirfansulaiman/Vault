@@ -53,6 +53,7 @@
 # env-nix*
 
 
+<html><a href="https://animal0day.blogspot.co.il/2017/12/linux-kernel-debugging-with-vmware.html">kgdb</a></html>.<br>
 <html><a href="http://how-to.wikia.com/wiki/How_to_disable_Firefox%27s_session_restore_crash_recovery_feature">How_to_disable_Firefox%27s_session_restore_crash_recovery_feature</a></html>.<br>
 <html><a href="https://github.com/MozillaSecurity/dharma">dharma/a></html>.<br>
 <html><a href="https://github.com/MozillaSecurity/framboise">webGl/a></html>.<br>
