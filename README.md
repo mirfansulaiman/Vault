@@ -1,6 +1,7 @@
 # instrumentation & misc
 
 
+<html><a href="https://github.com/quarkslab/QBDI">possibly-instrument-mem-curp-with</a></html>.<br>
 <html><a href="https://derevenets.com/">snowman</a></html>.<br>
 <html><a href="https://sno.phy.queensu.ca/~phil/exiftool/htmldump.html">Re-jpeg</a></html>.<br>
 <html><a href="https://msdn.microsoft.com/en-us/library/vs/alm/dn920144(v=vs.85).aspx">MsMp-API-cpp</a></html>.<br>
@@ -233,7 +234,9 @@ android:<br>
 <html><a href="http://ge0n0sis.github.io/">/ge0n0sis</a></html>.<br>
 <html><a href="https://github.com/ScottyBauer/Android_Kernel_CVE_POCs">ScottyBauer</a></html>.<br>
 <html><a href="https://speakerdeck.com/retme7/rooting-every-android-from-extension-to-exploitation">keen-lab</a></html>.<br>
-<html><a href="https://labs.mwrinfosecurity.com/assets/BlogFiles/Geshev-and-Miller-Logic-Bug-Hunting-in-Chrome-on-Android.pdf">mwr-labs</a></html>.<br><br>
+<html><a href="https://labs.mwrinfosecurity.com/assets/BlogFiles/Geshev-and-Miller-Logic-Bug-Hunting-in-Chrome-on-Android.pdf">mwr-labs</a></html>.<br>
+<html><a href="https://salmanarif.bitbucket.io/visual/index.html">arm-emu-vis</a></html>.<br>
+
 
 
 Other:<br><br>
