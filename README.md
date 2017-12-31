@@ -187,6 +187,8 @@ xss<br>
   
 kernel<br>
 
+
+<html><a href="https://siguza.github.io/IOHIDeous/">macOs-exp</a></html>.<br>
 <html><a href="https://github.com/theevilbit/kex">winKernelPrimitivesPython(pal)</a></html>.<br>
 <html><a href="https://github.com/xairy/linux-kernel-exploitation">xairy/linux-kernel-exploitation</a></html>.<br>
 <html><a href="https://github.com/xairy/kernel-exploits">xairy/kernel-exploits</a></html>.<br>
