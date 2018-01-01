@@ -1,9 +1,0 @@
-a1:
-
-https://cs.chromium.org/chromium/src/third_party/angle/src/libANGLE/Program.cpp?gsn=UniformStateQueryCastLoop&l=98
-https://cs.chromium.org/chromium/src/third_party/angle/src/libANGLE/Program.cpp?sq=package:chromium&l=3008
-
-
-a2:
-
-https://cs.chromium.org/chromium/src/third_party/angle/src/libANGLE/Program.cpp?gsn=UniformStateQueryCastLoop&l=179
