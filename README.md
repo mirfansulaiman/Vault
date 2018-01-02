@@ -246,7 +246,7 @@ android:<br>
 <html><a href="https://speakerdeck.com/retme7/rooting-every-android-from-extension-to-exploitation">keen-lab</a></html>.<br>
 <html><a href="https://labs.mwrinfosecurity.com/assets/BlogFiles/Geshev-and-Miller-Logic-Bug-Hunting-in-Chrome-on-Android.pdf">mwr-labs</a></html>.<br>
 <html><a href="https://salmanarif.bitbucket.io/visual/index.html">arm-emu-vis</a></html>.<br>
-<html><a href="https://github.com/c0d3z3r0/sudo-CVE-2017-1000367">SeLinuxExpPrivEsc</a></html>.<br>
+<html><a href="https://github.com/c0d3z3r0/sudo-CVE-2017-1000367">SeLinuxExpPrivEsc</a></html>.<br><br>
 
 
 
