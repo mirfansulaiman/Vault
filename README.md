@@ -284,6 +284,8 @@ Speciel:<br>
 
 fuzzing//dictionary<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Web/API/AudioContext">WebAudio</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/attachmentText?aid=302589">^^ example bug</a></html>.<br>
+<html><a href="https://github.com/google/domato/blob/master/mathml/mathml.txt">^^ example dict</a></html>.<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL">SMIL</a></html>.<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API">IndexDB</a></html>.<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API">wasm</a></html>.<br><br>
