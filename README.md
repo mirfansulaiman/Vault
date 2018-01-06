@@ -150,7 +150,9 @@ Chakra:<br>
   <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=759624">vuln-2</a>.<br><br>
    
 SandBox:<br>
+
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=386988">lokihardt-chromium escape</a>.<br>
+<html><a href="https://twitter.com/hosselot/status/907210253711892480">lokihardt-SmartScreen-sbx cr</a>.<br>
 <html><a href="https://github.com/secmob/cansecwest2016">secmob-play.google.com rce -> uxss -> chrome sanbox escape! (last pages of the pdf)</a>.<br>
  <html><a href="https://twitter.com/mj0011sec/status/867209265894653952">mj0011sec safari escape with kernel bug</a>.<br>
  <html><a href="https://phoenhex.re/2017-07-06/pwn2own-sandbox-escape">(phoenhex) pwn2own-17-safari-sandbox-escape</a>.<br>
