@@ -150,10 +150,13 @@ Chakra:<br>
   <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=759624">vuln-2</a>.<br><br>
    
 SandBox:<br>
-(i really need to step it up here!)<br>
-<html><a href="https://github.com/SandboxEscaper/edge/blob/master/code.cpp">SandboxEscaper/edge</a>.<br><br>
-
-
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=386988">lokihardt-chromium escape</a>.<br>
+<html><a href="https://github.com/secmob/cansecwest2016">secmob-play.google.com rce -> uxss -> chrome sanbox escape! (last pages of the pdf)</a>.<br>
+ <html><a href="https://twitter.com/mj0011sec/status/867209265894653952">mj0011sec safari escape with kernel bug</a>.<br>
+ <html><a href="https://phoenhex.re/2017-07-06/pwn2own-sandbox-escape">(phoenhex) pwn2own-17-safari-sandbox-escape</a>.<br>
+<html><a href="http://sandboxescaper.blogspot.co.il/2018/01/escaping-edge-sandbox.html">SandboxEscaper edge blogpost</a>.<br>
+<html><a href="https://github.com/SandboxEscaper/edge/blob/master/code.cpp">SandboxEscaper/edge</a>.<br>
+ <html><a href="https://github.com/tyranid/IE11SandboxEscapes">(forshaw) MSIE</a>.<br><br>
 
 Other:<br>
 
