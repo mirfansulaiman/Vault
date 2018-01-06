@@ -148,6 +148,11 @@ Chakra:<br>
  <html><a href="https://www.lucidchart.com/techblog/2017/05/16/webassembly-overview-so-fast-so-fun-sorta-difficult/">tuto</a>.<br>
   <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=752423">vuln-1</a>.<br>
   <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=759624">vuln-2</a>.<br><br>
+   
+SandBox:<br>
+(i really need to step it up here!)<br>
+<html><a href="https://github.com/SandboxEscaper/edge/blob/master/code.cpp">SandboxEscaper/edge</a>.<br><br>
+
 
 
 Other:<br>
