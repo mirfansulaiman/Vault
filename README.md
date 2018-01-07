@@ -1,4 +1,4 @@
-# P4wnlist
+# PwnList
 a little messy list of resources about bug hunting and exploitation.
 
 tools:<br>
