@@ -1,4 +1,5 @@
-# instrumentation & misc  
+# P4wnlist
+a little messy list of resources about bug hunting and exploitation.
 
 tools:<br>
 <html><a href="https://blogs.msdn.microsoft.com/lagdas/2008/06/24/debugging-heap-corruption-with-application-verifier-and-debugdiag/">dbg-heap crpt</a></html>.<br>
@@ -73,9 +74,9 @@ env-nix*:<br>
 <html><a href="https://cs.chromium.org/chromium/src/third_party/skia/">skia-src</a></html>.<br>
 <html><a href="http://lcamtuf.coredump.cx/afl/demo/">dumb-input</a></html>.<br>
 <html><a href="https://llvm.org/docs/GettingStarted.html">llvm</a></html>.<br>
-<html><a href="https://askubuntu.com/questions/905205/installing-clang-5-0-and-using-c17">Clang</a></html>.<br>
+<html><a href="https://askubuntu.com/questions/905205/installing-clang-5-0-and-using-c17">Clang</a></html>.<br><br>
 
-# ida
+ida:<br>
 
 <html><a href="https://github.com/mwrlabs/win_driver_plugin">mwr win_driver_plugin</a></html>.<br>
 <html><a href="https://github.com/nccgroup/DriverBuddy">ncc win_driver_plugin</a></html>.<br>
@@ -86,9 +87,9 @@ env-nix*:<br>
 
 
 
-# Exploits, bugs and technical information:
+Exploits, bugs and technical information<br>:
 
-js<br>
+javacript:<br>
 
  <html><a href="https://github.com/saelo/v9">saelo/v9</a>.<br>
 <html><a href="https://github.com/tarafans/CTF-writeup/blob/master/33c3ctf2016/solve.html">firefox-ctf</a>.<br>
