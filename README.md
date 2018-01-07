@@ -38,7 +38,7 @@ tools:<br>
 <html><a href="https://github.com/denandz/fuzzotron">proto-fuzz</a></html>.<br>
 <html><a href="https://github.com/vivisect/vivisect/tree/master/vtrace">vtrace</a></html>.<br>
 <html><a href="https://github.com/Rootkitsmm/Win32k-Fuzzer">Rootkitsmm/Win32k-Fuzzer</a></html>.<br>
-<html><a href="https://github.com/shellphish/fuzzer">shellphish/fuzzer/a></html>.<br>
+<html><a href="https://github.com/shellphish/fuzzer">shellphish/fuzzer</a></html>.<br><br>
  
  misc:<br>
  <html><a href="https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Drake-Christey-Vulnerabilities-101-UPDATED.pdf">bbg-life</a></html>.<br>
