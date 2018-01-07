@@ -1,27 +1,20 @@
 # instrumentation & misc  
 
-
+tools:<br>
 <html><a href="https://blogs.msdn.microsoft.com/lagdas/2008/06/24/debugging-heap-corruption-with-application-verifier-and-debugdiag/">dbg-heap crpt</a></html>.<br>
 <html><a href="https://github.com/HexHive/HexType">Clang-Type-conf</a></html>.<br>
-<html><a href="https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Drake-Christey-Vulnerabilities-101-UPDATED.pdf">bbg-life</a></html>.<br>
 <html><a href="https://github.com/quarkslab/QBDI">possibly-instrument-mem-curp-with</a></html>.<br>
 <html><a href="https://derevenets.com/">snowman</a></html>.<br>
 <html><a href="https://sno.phy.queensu.ca/~phil/exiftool/htmldump.html">Re-jpeg</a></html>.<br>
 <html><a href="https://msdn.microsoft.com/en-us/library/vs/alm/dn920144(v=vs.85).aspx">MsMp-API-cpp</a></html>.<br>
 <html><a href="https://stackoverflow.com/questions/40888849/windows-defender-antivirus-scan-from-c-sharp-accessviolation-exception/41285809#41285809">MsMp.NET</a></html>.<br>
 <html><a href="https://technet.microsoft.com/en-us/library/gg131918.aspx">scan-msmp-console</a></html>.<br>
-<html><a href="https://speakerdeck.com/brn/source-to-binary-journey-of-v8-javascript-engine-english-version">v8-opt</a></html>.<br>
 <html><a href="https://prezi.com/caic9eqayy-o/bugid-automated-bug-analysis/">bugid-automated-bug-analysis</a></html>.<br>
 <html><a href="http://www.squarefree.com/2007/09/15/introducing-lithium-a-testcase-reduction-tool/">testcase-reduction</a></html>.<br>
-<html><a href="https://www.khronos.org/webgl/wiki/HandlingContextLost">webgl</a></html>.<br>
 <html><a href="https://github.com/demi6od/Smashing_The_Browser">Smashing_The_Browser</a></html>.<br>
-<html><a href="https://github.com/mozilla/pdf.js">Mozilla pdf Src</a></html>.<br>
-<html><a href="https://dxr.mozilla.org/mozilla-central/source/parser/htmlparser">Mozilla Src</a></html>.<br>
 <html><a href="https://github.com/maldiohead/rtffuzz">RTFfuzzer</a></html>.<br>
 <html><a href="https://github.com/lcatro/Fuzzing-ImageMagick">fuzzingImageMagick</a></html>.<br>
 <html><a href="https://github.com/orangetw/Tiny-URL-Fuzzer">urlfuzzer</a></html>.<br>
-<html><a href="http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html">from ssrf-to-rce</a></html>.<br>
-<html><a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf">^^same</a></html>.<br>
 <html><a href="https://skia.org/user/build">build skia</a></html>.<br>
 <html><a href="https://github.com/google/skia/blob/master/site/user/build.md">build skia(2)</a></html>.<br>
 <html><a href="https://github.com/google/skia/blob/master/site/dev/testing/xsan.md">asan+skia</a></html>.<br>
@@ -30,11 +23,7 @@
 <html><a href="https://github.com/mozilla/shumway/tree/master/test/swfs/fuzz">swf-flash</a></html>.<br>
 <html><a href="https://github.com/qfox/SwfFuzzer">flash</a></html>.<br>
 <html><a href="https://github.com/google/domato">domato</a></html>.<br>
-<html><a href="https://github.com/v8/v8">v8os</a></html>.<br>
-<html><a href="https://docs.google.com/presentation/d/1mpRb6iYFcFgeQbvx-Slv6-3oh4ySoveh7Jd0e_S09Ec/edit#slide=id.g1fa8750b3c_0_1">v8.ppt</a></html>.<br>
-<html><a href="https://twitter.com/MayaLekova">v8</a></html>.<br>
-<html><a href="https://github.com/siberas/arpwn">adobe flash</a></html>.<br>
-<html><a href="https://github.com/mozilla/pdf.js">FFox fuzzer</a></html>.<br>
+<html><a href="https://github.com/siberas/arpwn">adobe reader</a></html>.<br>
 <html><a href="https://github.com/zhuyue1314/fuzzer-1">old fuzzer</a></html>.<br>
 <html><a href="https://github.com/koutto/ioctlbf">ioctlbf</a></html>.<br>
 <html><a href="https://github.com/richinseattle/EvolutionaryKernelFuzzing">krnlfuzz</a></html>.<br>
@@ -42,29 +31,33 @@
 <html><a href="http://j00ru.vexillium.org/slides/2017/recon.pdf">bochspwn</a></html>.<br>
 <html><a href="https://github.com/tandasat/DdiMon">DdiMon</a></html>.<br>
 <html><a href="https://github.com/hzqst/Syscall-Monitor">build upon ddimon</a></html>.<br>
-<html><a href="http://j00ru.vexillium.org/?p=3295">j00ru</a></html>.<br>
 <html><a href="https://github.com/felixwilhelm/xenpwn">xenpwn</a></html>.<br>
 <html><a href="http://www.iceswordlab.com/2017/06/14/Automatically-Discovering-Windows-Kernel-Information-Leak-Vulnerabilities_en/">icesword</a></html>.<br>
 <html><a href="https://github.com/Bareflank/extended_apis_example_hook">Bareflank</a></html>.<br>
 <html><a href="https://github.com/denandz/fuzzotron">proto-fuzz</a></html>.<br>
 <html><a href="https://github.com/vivisect/vivisect/tree/master/vtrace">vtrace</a></html>.<br>
 <html><a href="https://github.com/Rootkitsmm/Win32k-Fuzzer">Rootkitsmm/Win32k-Fuzzer</a></html>.<br>
-<html><a href="https://github.com/secfigo/Awesome-Fuzzing">secfigo/Awesome-Fuzzing</a></html>.<br>
 <html><a href="https://github.com/shellphish/fuzzer">shellphish/fuzzer/a></html>.<br>
+ 
+ misc:<br>
+ <html><a href="https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Drake-Christey-Vulnerabilities-101-UPDATED.pdf">bbg-life</a></html>.<br>
+ <html><a href="http://j00ru.vexillium.org/?p=3295">j00ru//vx</a></html>.<br>
+ <html><a href="https://github.com/secfigo/Awesome-Fuzzing">secfigo/Awesome-Fuzzing</a></html>.<br><br>
+ 
+source code:<br>
+<html><a href="https://www.khronos.org/webgl/wiki/HandlingContextLost">webgl</a></html>.<br>
+<html><a href="https://hg.mozilla.org/">firefox-src</a></html>.<br>
+<html><a href="https://github.com/mozilla/pdf.js">Mozilla pdf Src</a></html>.<br>
+<html><a href="https://dxr.mozilla.org/mozilla-central/source/parser/htmlparser">Mozilla Src</a></html>.<br>
+<html><a href="https://cs.chromium.org/chromium/src/third_party/pdfium/fxjs/cjs_app.cpp?sq=package:chromium">chromium-src</a></html>.<br><br>
 
-
-# env-nix*
-
-
+env-nix*:<br>
 <html><a href="https://animal0day.blogspot.co.il/2017/12/linux-kernel-debugging-with-vmware.html">kgdb</a></html>.<br>
 <html><a href="http://how-to.wikia.com/wiki/How_to_disable_Firefox%27s_session_restore_crash_recovery_feature">How_to_disable_Firefox%27s_session_restore_crash_recovery_feature</a></html>.<br>
 <html><a href="https://github.com/MozillaSecurity/dharma">dharma/a></html>.<br>
 <html><a href="https://github.com/MozillaSecurity/framboise">webGl/a></html>.<br>
 <html><a href="https://archive.mozilla.org/pub/firefox/releases/58.0b5/jsshell/">spiderMonkey</a></html>.<br>
-<html><a href="https://hg.mozilla.org/">firefox-src</a></html>.<br>
 <html><a href="https://crossbowerbt.github.io/in_memory_fuzzing.html">GDB+py</a></html>.<br>
-<html><a href="https://cs.chromium.org/chromium/src/third_party/pdfium/fxjs/cjs_app.cpp?sq=package:chromium">chromium-src</a></html>.<br>
-<html><a href="https://github.com/v8mips/v8mips/wiki/Running-C-code-in-v8-with-WASM">v8mips</a></html>.<br>
 <html><a href="https://github.com/mirrorer/afl/tree/master/qemu_mode">afl-qemu/testsuite</a></html>.<br>
 <html><a href="https://github.com/WebAssembly/testsuite">WebAssembly/testsuite</a></html>.<br>
 <html><a href="http://www.geeknik.net/4rzj8nz7n">afl-setup</a></html>.<br>
@@ -93,10 +86,9 @@
 
 
 
-# exp:
+# Exploits, bugs and technical information:
 
 js<br>
-
 
  <html><a href="https://github.com/saelo/v9">saelo/v9</a>.<br>
 <html><a href="https://github.com/tarafans/CTF-writeup/blob/master/33c3ctf2016/solve.html">firefox-ctf</a>.<br>
@@ -113,17 +105,19 @@ js<br>
 
 v8<br><br>
 
-
+<html><a href="https://speakerdeck.com/brn/source-to-binary-journey-of-v8-javascript-engine-english-version">v8-opt</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=594574">beautiful v8 bug</a>.<br>
  <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=682194">^^ much alike</a>.<br>
 <html><a href="https://github.com/secmob/pwnfest2016">secmob-private-prop-v8</a>.<br>
 <html><a href="https://github.com/secmob/cansecwest2016">secmob-oob</a>.<br>
 <html><a href="https://twitter.com/fhinkel/status/898184918286643201">v8-bytecode</a>.<br>
-<html><a href="https://www.youtube.com/playlist?list=PL65pp6Tpk692lL85jvoOAT_e9Yuzz_nwA">youtube-v8</a>.<br><br>
-
+<html><a href="https://www.youtube.com/playlist?list=PL65pp6Tpk692lL85jvoOAT_e9Yuzz_nwA">youtube-v8</a>.<br>
+ <html><a href="https://github.com/v8/v8">v8os</a></html>.<br>
+<html><a href="https://docs.google.com/presentation/d/1mpRb6iYFcFgeQbvx-Slv6-3oh4ySoveh7Jd0e_S09Ec/edit#slide=id.g1fa8750b3c_0_1">v8.ppt</a></html>.<br>
+<html><a href="https://github.com/v8mips/v8mips/wiki/Running-C-code-in-v8-with-WASM">v8mips</a></html>.<br>
+<html><a href="https://twitter.com/MayaLekova">v8</a></html>.<br><br>
+ 
 Chakra:<br>
-
-
 
 <html><a href="https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/">improved-javascript-performance-webassembly-shared-memory</a>.<br>
 <html><a href="http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/">p2o-2016</a>.<br>
@@ -134,9 +128,8 @@ Chakra:<br>
 <html><a href="https://github.com/Microsoft/ChakraCore/blob/9e6f4e74dcd248c2745dc7cd83691d29beb1a56c/lib/Runtime/Library/CompoundString.cpp#L481">oom</a>.<br>
 <html><a href="https://github.com/NULL1nj3cTOR/Microsoft-Edge-Windows-10-RCE-EXPLOIT">Microsoft-Edge-Windows-10-RCE-EXPLOIT</a>.<br><br>
  
- edge:<br>
+ edgehtml:<br>
  <html><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxiaW5nc3Vuc2VjfGd4OmRlM2U4ZDNhNmNjZTFjNA">bypass cfg++</a>.<br><br>
- 
  
  
  Wasm:<br>
@@ -187,7 +180,8 @@ Other:<br>
  
 xss<br>
 
-
+<html><a href="http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html">from ssrf-to-rce</a></html>.<br>
+<html><a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf">^^same</a></html>.<br>
 <html><a href="http://blog.malerisch.net/2017/04/uxss-mcafee-endpoint-security-and-site-advisor-cve-2016-8011.html">mcafee-UXSS</a></html>.<br>
 <html><a href="https://events.ccc.de/congress/2006/Fahrplan/attachments/1158-Subverting_Ajax.pdf">subverting ajax</a></html>.<br>
 <html><a href="https://medium.com/@auxy233/the-design-and-implementation-of-ssrf-attack-framework-550e9fda16ea">SSRF</a></html>.<br>
@@ -351,11 +345,6 @@ con:<br>
 
 post<br>
 <html><a href="http://www.hexacorn.com/blog/2017/10/26/propagate-a-new-code-injection-trick/">cross process code injection</a></html>.<br><br>
-
-pgp<br>
-<html><a href="http://x.co/6nFaf">3FA815D75393DE6B</a></html>.<br>
-<html><a href="https://keys.mailvelope.com/pks/lookup?op=get&search=0x3FA815D75393DE6B">https://keys.mailvelope.com/pks/lookup?op=get&search=0x3FA815D75393DE6B</a></html>.<br>
-<html><a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x3FA815D75393DE6B">http://pgp.mit.edu/pks/lookup?op=get&search=0x3FA815D75393DE6B</a></html>.<br><br>
 
 misc++<br>
 
