@@ -1,5 +1,5 @@
 # PwnList
-a little messy list of resources about bug hunting and exploitation.
+a messy list of resources about bug hunting and exploitation.
 
 tools:<br>
 <html><a href="https://blogs.msdn.microsoft.com/lagdas/2008/06/24/debugging-heap-corruption-with-application-verifier-and-debugdiag/">dbg-heap crpt</a></html>.<br>
