@@ -328,11 +328,14 @@ ShellCode:<br>
 <html><a href="https://github.com/odzhan/shellcode">nixmix</a></html>.<br>
 <html><a href="https://github.com/odzhan/tinycrypt">crypto</a></html>.<br><br>
 
+
 SysCalls:<br>
+
 <html><a href="https://github.com/tinysec/windows-syscall-table">tinysec</a></html>.<br>
-<html><a href="http://j00ru.vexillium.org/syscalls/win32k/32/">j00ru</a></html>.<br>
+<html><a href="http://j00ru.vexillium.org/syscalls/win32k/32/">j00ru</a></html>.<br><br>
 
 Misc:<br>
+
 <html><a href="http://xlab.tencent.com/en/">Tencent-xlab</a></html>.<br>
 <html><a href="https://cs.chromium.org/chromium/src/third_party/">Chromium-ext</a></html>.<br>
 <html><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-11767">CVE-2017-11767</a></html>.<br><br>
