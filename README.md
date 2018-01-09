@@ -1,6 +1,3 @@
-# PwnList
-a messy list of resources about bug hunting and exploitation.
-
 tools:<br>
 <html><a href="https://blogs.msdn.microsoft.com/lagdas/2008/06/24/debugging-heap-corruption-with-application-verifier-and-debugdiag/">dbg-heap crpt</a></html>.<br>
 <html><a href="https://github.com/HexHive/HexType">Clang-Type-conf</a></html>.<br>
