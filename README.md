@@ -49,7 +49,7 @@
  <html><a href="http://j00ru.vexillium.org/?p=3295">j00ru//vx</a></html>.<br>
  <html><a href="https://github.com/secfigo/Awesome-Fuzzing">secfigo/Awesome-Fuzzing</a></html>.<br><br>
  
-source code:<br>
+* source code:<br>
 <html><a href="https://www.khronos.org/webgl/wiki/HandlingContextLost">webgl</a></html>.<br>
 <html><a href="https://hg.mozilla.org/">firefox-src</a></html>.<br>
 <html><a href="https://github.com/mozilla/pdf.js">Mozilla pdf Src</a></html>.<br>
