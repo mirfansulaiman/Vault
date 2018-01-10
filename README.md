@@ -1,4 +1,11 @@
-tools:<br>
+
+
+Instrumentation and reverse code engineering technology:<br><br>
+
+
+general tools:<br><br>
+
+
 <html><a href="https://blogs.msdn.microsoft.com/lagdas/2008/06/24/debugging-heap-corruption-with-application-verifier-and-debugdiag/">dbg-heap crpt</a></html>.<br>
 <html><a href="https://github.com/HexHive/HexType">Clang-Type-conf</a></html>.<br>
 <html><a href="https://github.com/quarkslab/QBDI">possibly-instrument-mem-curp-with</a></html>.<br>
