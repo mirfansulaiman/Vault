@@ -237,6 +237,7 @@
 <html><a href="http://androidxref.com/8.0.0_r4/xref/system/">(( android src ))</a></html>.<br><br>
 
 
+<html><a href="http://powerofcommunity.net/poc2017/yu.pdf">android re</a></html>.<br>
 <html><a href="https://github.com/fuzzing/MFFA">fuzzing libStagefright</a></html>.<br>
 <html><a href="https://www.blackhat.com/docs/eu-15/materials/eu-15-Blanda-Fuzzing-Android-A-Recipe-For-Uncovering-Vulnerabilities-Inside-System-Components-In-Android-wp.pdf">more fuzzing</a></html>.<br>
 <html><a href="https://source.android.com/devices/tech/debug/asan">android ASAN</a></html>.<br>
