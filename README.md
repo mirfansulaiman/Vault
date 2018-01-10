@@ -224,12 +224,13 @@ kernel<br>
 <html><a href="http://xlab.tencent.com/en/2016/04/19/exception-in-exception/">tencent</a></html>.<br>
 <html><a href="http://xlab.tencent.com/en/2016/01/04/use-chakra-engine-again-to-bypass-cfg/">bypass-cfg</a></html>.<br><br>
  
-android:<br>
+android:<br><br>
 
+
+<html><a href="http://androidxref.com/8.0.0_r4/xref/system/">(( android src ))</a></html>.<br><br>
 
 <html><a href="https://source.android.com/devices/tech/debug/asan">android ASAN</a></html>.<br>
 <html><a href="http://powerofcommunity.net/poc2017/dan.pdf">POC-2017-fuzzing android</a></html>.<br>
-<html><a href="http://androidxref.com/8.0.0_r4/xref/system/">android src</a></html>.<br>
 <html><a href="https://github.com/jacktang310/KernelDebugOnNexus6P">KernelDebugOnNexus6P</a></html>.<br>
 <html><a href="http://blog.exodusintel.com/2017/07/26/broadpwn/">broadpwn</a></html>.<br>
 <html><a href="https://www.youtube.com/watch?v=L2Mo8WcmmZo">reversing firmware-andr</a></html>.<br>
