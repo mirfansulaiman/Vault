@@ -224,7 +224,7 @@ kernel<br>
 <html><a href="http://xlab.tencent.com/en/2016/04/19/exception-in-exception/">tencent</a></html>.<br>
 <html><a href="http://xlab.tencent.com/en/2016/01/04/use-chakra-engine-again-to-bypass-cfg/">bypass-cfg</a></html>.<br><br>
  
-android:<br><br>
+Android:<br><br>
 
 
 <html><a href="http://androidxref.com/8.0.0_r4/xref/system/">(( android src ))</a></html>.<br><br>
@@ -252,7 +252,14 @@ android:<br><br>
 <html><a href="https://speakerdeck.com/retme7/rooting-every-android-from-extension-to-exploitation">keen-lab</a></html>.<br>
 <html><a href="https://labs.mwrinfosecurity.com/assets/BlogFiles/Geshev-and-Miller-Logic-Bug-Hunting-in-Chrome-on-Android.pdf">mwr-labs</a></html>.<br>
 <html><a href="https://salmanarif.bitbucket.io/visual/index.html">arm-emu-vis</a></html>.<br>
-<html><a href="https://github.com/c0d3z3r0/sudo-CVE-2017-1000367">SeLinuxExpPrivEsc</a></html>.<br><br>
+<html><a href="https://github.com/c0d3z3r0/sudo-CVE-2017-1000367">SeLinuxExpPrivEsc</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1388">gpo-0</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1404">gpo-1</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=966">gpo-2</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1300">gpo-3</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1289">gpo-4</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1291">gpo-5</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1294">gpo-6</a></html>.<br><br>
 
 
 
