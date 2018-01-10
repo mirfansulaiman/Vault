@@ -1,9 +1,9 @@
 
 
-Instrumentation and reverse code engineering technology:<br><br>
+== Instrumentation and reverse code engineering technology:<br><br>
 
 
-general tools:<br><br>
+* general tools and attack surface:<br><br>
 
 
 <html><a href="https://blogs.msdn.microsoft.com/lagdas/2008/06/24/debugging-heap-corruption-with-application-verifier-and-debugdiag/">dbg-heap crpt</a></html>.<br>
@@ -44,7 +44,7 @@ general tools:<br><br>
 <html><a href="https://github.com/Rootkitsmm/Win32k-Fuzzer">Rootkitsmm/Win32k-Fuzzer</a></html>.<br>
 <html><a href="https://github.com/shellphish/fuzzer">shellphish/fuzzer</a></html>.<br><br>
  
- misc:<br>
+ * misc:<br>
  <html><a href="https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Drake-Christey-Vulnerabilities-101-UPDATED.pdf">bbg-life</a></html>.<br>
  <html><a href="http://j00ru.vexillium.org/?p=3295">j00ru//vx</a></html>.<br>
  <html><a href="https://github.com/secfigo/Awesome-Fuzzing">secfigo/Awesome-Fuzzing</a></html>.<br><br>
@@ -56,7 +56,7 @@ source code:<br>
 <html><a href="https://dxr.mozilla.org/mozilla-central/source/parser/htmlparser">Mozilla Src</a></html>.<br>
 <html><a href="https://cs.chromium.org/chromium/src/third_party/pdfium/fxjs/cjs_app.cpp?sq=package:chromium">chromium-src</a></html>.<br><br>
 
-env-nix*:<br>
+* env-nix*:<br>
 <html><a href="https://animal0day.blogspot.co.il/2017/12/linux-kernel-debugging-with-vmware.html">kgdb</a></html>.<br>
 <html><a href="http://how-to.wikia.com/wiki/How_to_disable_Firefox%27s_session_restore_crash_recovery_feature">How_to_disable_Firefox%27s_session_restore_crash_recovery_feature</a></html>.<br>
 <html><a href="https://github.com/MozillaSecurity/dharma">dharma/a></html>.<br>
@@ -80,7 +80,7 @@ env-nix*:<br>
 <html><a href="https://llvm.org/docs/GettingStarted.html">llvm</a></html>.<br>
 <html><a href="https://askubuntu.com/questions/905205/installing-clang-5-0-and-using-c17">Clang</a></html>.<br><br>
 
-ida:<br>
+* ida:<br>
 
 <html><a href="https://github.com/mwrlabs/win_driver_plugin">mwr win_driver_plugin</a></html>.<br>
 <html><a href="https://github.com/nccgroup/DriverBuddy">ncc win_driver_plugin</a></html>.<br>
@@ -91,9 +91,9 @@ ida:<br>
 
 
 
-Exploits, bugs and technical information:<br><br>
+== Exploits, bugs and technical information:<br><br>
 
-javacript:<br>
+* javacript:<br>
 
  <html><a href="https://github.com/saelo/v9">saelo/v9</a>.<br>
 <html><a href="https://github.com/tarafans/CTF-writeup/blob/master/33c3ctf2016/solve.html">firefox-ctf</a>.<br>
@@ -108,7 +108,7 @@ javacript:<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView">dv</a>.<br><br>
 
 
-v8<br><br>
+* v8<br><br>
 
 <html><a href="https://speakerdeck.com/brn/source-to-binary-journey-of-v8-javascript-engine-english-version">v8-opt</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=594574">beautiful v8 bug</a>.<br>
@@ -122,7 +122,7 @@ v8<br><br>
 <html><a href="https://github.com/v8mips/v8mips/wiki/Running-C-code-in-v8-with-WASM">v8mips</a></html>.<br>
 <html><a href="https://twitter.com/MayaLekova">v8</a></html>.<br><br>
  
-Chakra:<br>
+* Chakra:<br>
 
 <html><a href="https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/">improved-javascript-performance-webassembly-shared-memory</a>.<br>
 <html><a href="http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/">p2o-2016</a>.<br>
@@ -133,11 +133,11 @@ Chakra:<br>
 <html><a href="https://github.com/Microsoft/ChakraCore/blob/9e6f4e74dcd248c2745dc7cd83691d29beb1a56c/lib/Runtime/Library/CompoundString.cpp#L481">oom</a>.<br>
 <html><a href="https://github.com/NULL1nj3cTOR/Microsoft-Edge-Windows-10-RCE-EXPLOIT">Microsoft-Edge-Windows-10-RCE-EXPLOIT</a>.<br><br>
  
- edgehtml:<br>
+ * edgehtml:<br>
  <html><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxiaW5nc3Vuc2VjfGd4OmRlM2U4ZDNhNmNjZTFjNA">bypass cfg++</a>.<br><br>
  
  
- Wasm:<br>
+ * Wasm:<br>
  
  <html><a href="http://willhackett.blog/using-sharedarraybuffer-to-run-javascript-in-parallel">using-sharedarraybuffer-to-run-javascript-in-parallel</a>.<br>
   <html><a href="http://kripken.github.io/emscripten-site/docs/porting/connecting_cpp_and_javascript/Interacting-with-code.html">Interacting-with-code</a>.<br>
@@ -147,7 +147,7 @@ Chakra:<br>
   <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=752423">vuln-1</a>.<br>
   <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=759624">vuln-2</a>.<br><br>
    
-SandBox:<br>
+* SandBox:<br>
 
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=386988">lokihardt-chromium escape</a>.<br>
 <html><a href="https://twitter.com/hosselot/status/907210253711892480">lokihardt-SmartScreen-sbx cr</a>.<br>
@@ -158,7 +158,7 @@ SandBox:<br>
 <html><a href="https://github.com/SandboxEscaper/edge/blob/master/code.cpp">SandboxEscaper/edge</a>.<br>
  <html><a href="https://github.com/tyranid/IE11SandboxEscapes">(forshaw) MSIE</a>.<br><br>
 
-Other:<br>
+* Other(js):<br>
 
 <html><a href="https://github.com/Cryptogenic/Exploit-Writeups/blob/master/PS4/4.0x%20WebKit%20Exploit%20Writeup.md">webkit exploit writeup</a>.<br>
 <html><a href="https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit/blob/master/expl.js">webkit-oob-exploit</a>.<br>
@@ -183,7 +183,7 @@ Other:<br>
     <html><a href="https://twitter.com/brainsmoke/status/946548344498909184">34c3-bypass aslr side-channel</a>.<html><br><br>
   
  
-xss<br>
+* xss<br>
 
 <html><a href="http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html">from ssrf-to-rce</a></html>.<br>
 <html><a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf">^^same</a></html>.<br>
@@ -195,7 +195,7 @@ xss<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Displaying_web_content_in_an_extension_without_security_issues#Safe_HTML.c2.a0manipulation_functions">known problems</a></html>.
 <br><br>
   
-kernel<br>
+* kernel<br>
 
 
 <html><a href="https://siguza.github.io/IOHIDeous/">macOs-exp</a></html>.<br>
@@ -231,7 +231,7 @@ kernel<br>
 <html><a href="http://xlab.tencent.com/en/2016/04/19/exception-in-exception/">tencent</a></html>.<br>
 <html><a href="http://xlab.tencent.com/en/2016/01/04/use-chakra-engine-again-to-bypass-cfg/">bypass-cfg</a></html>.<br><br>
  
-Android:<br><br>
+* Android:<br><br>
 
 
 <html><a href="http://androidxref.com/8.0.0_r4/xref/system/">(( android src ))</a></html>.<br><br>
@@ -273,7 +273,7 @@ Android:<br><br>
 
 
 
-Other:<br><br>
+* Other:<br><br>
 
 <html><a href="https://stackoverflow.com/questions/11337849/ways-to-extend-array-object-in-javascript">JSoverrides</a></html>.<br>
 <html><a href="https://pleasestopnamingvulnerabilities.com/integers.html">integers ovf</a></html>.<br>
@@ -289,7 +289,7 @@ Other:<br><br>
 
 
 
-Speciel:<br>
+* Speciel:<br>
 
 <html><a href="https://www.blackhat.com/docs/eu-17/materials/eu-17-Mandal-The-Great-Escapes-Of-Vmware-A-Retrospective-Case-Study-Of-Vmware-G2H-Escape-Vulnerabilities.pdf">vmware-attack-surface</a></html>.<br>
 <html><a href="https://www.youtube.com/watch?v=B1UOGCffIEI">ff-exp</a></html>.<br>
@@ -306,7 +306,7 @@ Speciel:<br>
 
 
 
-fuzzing//dictionary<br>
+* fuzzing//dictionary<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Web/API/AudioContext">WebAudio</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/attachmentText?aid=302589">^^ example bug</a></html>.<br>
 <html><a href="https://github.com/google/domato/blob/master/mathml/mathml.txt">^^ example dict</a></html>.<br>
@@ -314,7 +314,7 @@ fuzzing//dictionary<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API">IndexDB</a></html>.<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API">wasm</a></html>.<br><br>
 
-pdf:<br>
+* pdf:<br>
 
 
 <html><a href="https://gendignoux.com/blog/2016/10/04/pdf-basics.html">api's//formats</a></html>.<br>
@@ -323,13 +323,13 @@ pdf:<br>
 <html><a href="https://github.com/JazzCore/python-pdfkit">Html2pdf</a></html>.<br>
 <html><a href="https://github.com/tomcarver/pdf-tools">tomcarver/pdf-tools</a></html>.<br><br>
 
-Office:<br>
+* Office:<br>
 <html><a href="https://srcincite.io/blog/2016/12/13/word-up-microsoft-word-onetabledocumentstream-underflow.html">office-word@mr_me</a></html>.<br>
 <html><a href="https://msdn.microsoft.com/en-us/library/office/dn906146.aspx">some interesting api's..</a></html>.<br>
 <html><a href="https://embedi.com/files/white-papers/skeleton-in-the-closet.pdf">embedi RCE</a></html>.<br><br>
 
 
-ShellCode:<br>
+* ShellCode:<br>
 <html><a href="http://shell-storm.org/shellcode/files/shellcode-700.php">llib32</a></html>.<br>
 <html><a href="https://github.com/peterferrie/win-exec-calc-shellcode">peter calc</a></html>.<br>
 <html><a href="https://github.com/SkyLined/w32-msgbox-shellcode">skylined</a></html>.<br>
@@ -347,18 +347,18 @@ ShellCode:<br>
 <html><a href="https://github.com/odzhan/tinycrypt">crypto</a></html>.<br><br>
 
 
-SysCalls:<br>
+* SysCalls:<br>
 
 <html><a href="https://github.com/tinysec/windows-syscall-table">tinysec</a></html>.<br>
 <html><a href="http://j00ru.vexillium.org/syscalls/win32k/32/">j00ru</a></html>.<br><br>
 
-Misc:<br>
+* Misc:<br>
 
 <html><a href="http://xlab.tencent.com/en/">Tencent-xlab</a></html>.<br>
 <html><a href="https://cs.chromium.org/chromium/src/third_party/">Chromium-ext</a></html>.<br>
 <html><a href="https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-11767">CVE-2017-11767</a></html>.<br><br>
 
-con:<br>
+* con:<br>
 <html><a href="https://infiltratecon.com/archives/">inf</a></html>.<br>
 <html><a href="https://ruxcon.org.au/slides/">recon</a></html>.<br>
 <html><a href="https://infocon.org/cons/">a big thread</a></html>.<br>
@@ -368,7 +368,7 @@ con:<br>
 post<br>
 <html><a href="http://www.hexacorn.com/blog/2017/10/26/propagate-a-new-code-injection-trick/">cross process code injection</a></html>.<br><br>
 
-misc++<br>
+== misc++<br>
 
 <html><a href="https://posts.specterops.io/hiding-registry-keys-with-psreflect-b18ec5ac8353">registry-hide</a></html>.<br>
 <html><a href="https://twitter.com/Fox0x01/status/929814032118362113">ARM-Qemu</a></html>.<br>
