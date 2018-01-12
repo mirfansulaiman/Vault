@@ -233,7 +233,7 @@
 
 <html><a href="http://androidxref.com/8.0.0_r4/xref/system/">(( android src ))</a></html>.<br><br>
 
-
+<html><a href="http://siliconpr0n.org/media/mtvre/2018-01-11_natalie_s_How_to_Intercept_Encrypted_Messages_On_Android.pdf">@natashenka - android apk</a></html>.<br>
 <html><a href="http://powerofcommunity.net/poc2017/yu.pdf">Attack surface and vul patterns</a></html>.<br>
 <html><a href="https://github.com/fuzzing/MFFA">fuzzing libStagefright</a></html>.<br>
 <html><a href="https://www.blackhat.com/docs/eu-15/materials/eu-15-Blanda-Fuzzing-Android-A-Recipe-For-Uncovering-Vulnerabilities-Inside-System-Components-In-Android-wp.pdf">more fuzzing</a></html>.<br>
