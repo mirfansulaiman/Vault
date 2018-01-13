@@ -153,7 +153,8 @@
  <html><a href="https://phoenhex.re/2017-07-06/pwn2own-sandbox-escape">(phoenhex) pwn2own-17-safari-sandbox-escape</a>.<br>
 <html><a href="http://sandboxescaper.blogspot.co.il/2018/01/escaping-edge-sandbox.html">SandboxEscaper edge blogpost</a>.<br>
 <html><a href="https://github.com/SandboxEscaper/edge/blob/master/code.cpp">SandboxEscaper/edge</a>.<br>
- <html><a href="https://github.com/tyranid/IE11SandboxEscapes">(forshaw) MSIE</a>.<br><br>
+ <html><a href="https://github.com/tyranid/IE11SandboxEscapes">(forshaw) MSIE</a>.<br> 
+  <html><a href="http://www.powerofcommunity.net/poc2016/keen.pdf">Chromium sb good overview page 36.</a>.<br><br>
 
 * Other(js):<br>
 
