@@ -389,7 +389,6 @@ post<br>
 == Tech Low Level:<br>
 
 <html><a href="https://norasandler.com/2017/11/29/Write-a-Compiler.html">Compilers</a></html>.<br>
-<html><a href="https://www.codeproject.com/Articles/1149414/Learn-Swift-Without-a-Mac-Compile-Build-Run-Swift">Swift - will be removed from here ..</a></html>.<br>
 
 
 
