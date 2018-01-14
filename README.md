@@ -51,7 +51,9 @@
 <html><a href="https://hg.mozilla.org/">firefox-src</a></html>.<br>
 <html><a href="https://github.com/mozilla/pdf.js">Mozilla pdf Src</a></html>.<br>
 <html><a href="https://dxr.mozilla.org/mozilla-central/source/parser/htmlparser">Mozilla Src</a></html>.<br>
-<html><a href="https://cs.chromium.org/chromium/src/third_party/pdfium/fxjs/cjs_app.cpp?sq=package:chromium">chromium-src</a></html>.<br><br>
+<html><a href="https://cs.chromium.org/chromium/src/third_party/pdfium/fxjs/cjs_app.cpp?sq=package:chromium">chromium-src</a></html>.<br>
+<html><a href="https://www.chromium.org/quic">quic docs</a></html>.<br>
+<html><a href="https://chromium.googlesource.com/chromium/src.git/+/8b2f970348522c1103faed86cfabb0a1a07b8be6/net/quic">chromium quic</a></html>.<br><br>
 
 * env-nix*:<br>
 <html><a href="https://animal0day.blogspot.co.il/2017/12/linux-kernel-debugging-with-vmware.html">kgdb</a></html>.<br>
@@ -92,6 +94,8 @@
 
 * javacript:<br>
 
+
+<html><a href="https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf">js-ll-overview</a>.<br>
  <html><a href="https://github.com/saelo/v9">saelo/v9</a>.<br>
 <html><a href="https://github.com/tarafans/CTF-writeup/blob/master/33c3ctf2016/solve.html">firefox-ctf</a>.<br>
  <html><a href="http://www.phrack.org/papers/attacking_javascript_engines.html">saelo->phrack</a></html>.<br>
@@ -146,6 +150,8 @@
    
 * SandBox:<br>
 
+
+<html><a href="https://github.com/google/sandbox-attacksurface-analysis-tools">google/sandbox-attacksurface-analysis-tools</a>.<br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=386988">lokihardt-chromium escape</a>.<br>
 <html><a href="https://twitter.com/hosselot/status/907210253711892480">lokihardt-SmartScreen-sbx cr</a>.<br>
 <html><a href="https://github.com/secmob/cansecwest2016">secmob-play.google.com rce -> uxss -> chrome sanbox escape! (last pages of the pdf)</a>.<br>
@@ -154,7 +160,11 @@
 <html><a href="http://sandboxescaper.blogspot.co.il/2018/01/escaping-edge-sandbox.html">SandboxEscaper edge blogpost</a>.<br>
 <html><a href="https://github.com/SandboxEscaper/edge/blob/master/code.cpp">SandboxEscaper/edge</a>.<br>
  <html><a href="https://github.com/tyranid/IE11SandboxEscapes">(forshaw) MSIE</a>.<br> 
-  <html><a href="http://www.powerofcommunity.net/poc2016/keen.pdf">Chromium sb good overview page 36.</a>.<br><br>
+  <html><a href="http://www.powerofcommunity.net/poc2016/keen.pdf">Chromium sb good overview page 36.</a>.<br>   
+ <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=765512">chrome-sb bug-0</a>.<br>
+ <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=725032">chrome-sb bug-1</a>.<br>
+ <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=728887">chrome-sb bug-2</a>.<br><br>
+  
 
 * Other(js):<br>
 
@@ -375,6 +385,11 @@ post<br>
 <html><a href="https://pykd.codeplex.com/">pykd</a></html>.<br>
 <html><a href="https://github.com/bruce30262/TWindbg">TWindbg</a></html>.<br>
 <html><a href="https://cloud.google.com/compute/pricing">g-compute</a></html>.<br><br>
+
+== Tech Low Level:<br>
+
+<html><a href="https://norasandler.com/2017/11/29/Write-a-Compiler.html">Compilers</a></html>.<br>
+<html><a href="https://www.codeproject.com/Articles/1149414/Learn-Swift-Without-a-Mac-Compile-Build-Run-Swift">Swift - will be removed from here ..</a></html>.<br>
 
 
 
