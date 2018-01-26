@@ -94,6 +94,7 @@
 * javacript:<br>
 
 
+<html><a href="https://docs.google.com/presentation/d/11fkQeEisoszNGF8SrautVT1ltSnsQBWRxJ4usoc-g_o/edit#slide=id.g2b34aaab4a_0_84">Array bugs..</a>.<br>
 <html><a href="https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf">js-ll-overview</a>.<br>
  <html><a href="https://github.com/saelo/v9">saelo/v9</a>.<br>
 <html><a href="https://github.com/tarafans/CTF-writeup/blob/master/33c3ctf2016/solve.html">firefox-ctf</a>.<br>
