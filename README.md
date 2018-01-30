@@ -151,6 +151,7 @@
 * SandBox:<br>
 
 
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=733549">chrome IPC</a>.<br>
 <html><a href="https://github.com/google/sandbox-attacksurface-analysis-tools">google/sandbox-attacksurface-analysis-tools</a>.<br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=386988">lokihardt-chromium escape</a>.<br>
 <html><a href="https://twitter.com/hosselot/status/907210253711892480">lokihardt-SmartScreen-sbx cr</a>.<br>
@@ -168,6 +169,8 @@
 
 * Other(js):<br>
 
+
+<html><a href="https://www.zerodayinitiative.com/blog/2017/8/24/deconstructing-a-winning-webkit-pwn2own-entry">webkit-zdi</a>.<br>
 <html><a href="https://github.com/Cryptogenic/Exploit-Writeups/blob/master/PS4/4.0x%20WebKit%20Exploit%20Writeup.md">webkit exploit writeup</a>.<br>
 <html><a href="https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit/blob/master/expl.js">webkit-oob-exploit</a>.<br>
 <html><a href="https://github.com/secmob/pwnfest2016">chrome-pwnfest2016</a>.<br>
@@ -188,8 +191,10 @@
  <html><a href="https://whereisk0shl.top/cve_2017_0037_ie11&edge_type_confusion.html">ie win7 tc p0</a>.<br>
   <html><a href="https://blogs.windows.com/msedgedev/2017/03/23/strengthening-microsoft-edge-sandbox/">about the edge sandbox</a>.<br>
    <html><a href="https://gist.github.com/crowell/cde416575a12f63cb226">pwn-with-red</a>. <html><br>
-    <html><a href="https://twitter.com/brainsmoke/status/946548344498909184">34c3-bypass aslr side-channel</a>.<html><br><br>
-  
+    <html><a href="https://twitter.com/brainsmoke/status/946548344498909184">34c3-bypass aslr side-channel</a>.<html><br>
+     <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=732661">pdfium-bug-0</a>.<html><br>
+     <br>
+     
  
 * xss<br>
 
