@@ -153,6 +153,7 @@
 * SandBox:<br>
 
 
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1450">gpo chrome mojom::directory interface ..</a>.<br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=733549">chrome IPC</a>.<br>
 <html><a href="https://github.com/google/sandbox-attacksurface-analysis-tools">google/sandbox-attacksurface-analysis-tools</a>.<br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=386988">lokihardt-chromium escape</a>.<br>
@@ -362,6 +363,23 @@
 <html><a href="https://github.com/JonathanSalwan/Kaminou-Kernel/blob/b4020c8094522279612f2a7922080877ff6fbfd8/kernel/sys/handler_interrupt.asm">Salwan</a></html>.<br>
 <html><a href="https://github.com/odzhan/shellcode">nixmix</a></html>.<br>
 <html><a href="https://github.com/odzhan/tinycrypt">crypto</a></html>.<br><br>
+
+* vm:<br>
+
+<html><a href="https://www.slideshare.net/MSbluehat/bluehat-v17-out-of-the-truman-show-vm-escape-in-vmware-gracefully">Qihoo-vmware-escape</a></html>.<br>
+<html><a href="https://github.com/unamer/vmware_escape">vmware_escape</a></html>.<br>
+<html><a href="https://github.com/leonsodhi/hyperv-vswitch-vulnerability">hyper-v bug</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=688">hyper-v bug (gpo)</a></html>.<br>
+<html><a href="https://blog.quarkslab.com/tag/xen.html">Xen-qlab</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1184&can=1&q=xen">xen-gpo-1</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1231&can=1&q=xen">xen-gpo-2</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1359&can=1&q=xen">xen-gpo-3</a></html>.<br>
+<html><a href="https://www.blackhat.com/docs/eu-17/materials/eu-17-Mandal-The-Great-Escapes-Of-Vmware-A-Retrospective-Case-Study-Of-Vmware-G2H-Escape-Vulnerabilities.pdf">vmware attack surface</a></html>.<br>
+<html><a href="https://www.zerodayinitiative.com/blog/2017/12/21/vmwares-launch-escape-system">zdi bug vmware</a></html>.<br>
+<html><a href="https://www.thezdi.com/blog/2017/6/26/use-after-silence-exploiting-a-quietly-patched-uaf-in-vmware">zdi bug vmware2</a></html>.<br>
+<html><a href="https://2017.zeronights.org/wp-content/uploads/materials/ZN17_ZDIteam_Leveraging%20VMware_s%20RPC%20Interface.pdf">zdi-zero nights vmware</a></html>.<br>
+<html><a href="https://www.zerodayinitiative.com/blog/2018/1/19/automating-vmware-rpc-request-sniffing">vmware-rpc-request-sniffing-zdi</a></html>.<br>
+<html><a href="https://www.exploit-db.com/exploits/43878/">virtual box escape</a></html>.<br><br>
 
 
 * SysCalls:<br>
