@@ -335,6 +335,9 @@
 * pdf:<br>
 
 
+<html><a href="https://www.blackhat.com/docs/asia-17/materials/asia-17-Liu-Dig-Into-The-Attack-Surface-Of-PDF-And-Gain-100-CVEs-In-1-Year-wp.pdf">ke liu blackhat</a></html>.<br>
+
+<html><a href="https://nordictestingdays.eu/files/files/jaanus_kaap_fuzzing.pdf">jaanus kaap fuzzing pdf's</a></html>.<br>
 <html><a href="https://gendignoux.com/blog/2016/10/04/pdf-basics.html">api's//formats</a></html>.<br>
 <html><a href="http://insert-script.blogspot.co.il/2017/08/a-tale-about-foxit-reader-safe-reading.html">insertscript-foxit</a></html>.<br>
 <html><a href="https://github.com/corkami/pocs/tree/master/pdf">angea</a></html>.<br>
