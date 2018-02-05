@@ -339,7 +339,7 @@
 
 
 <html><a href="https://www.blackhat.com/docs/asia-17/materials/asia-17-Liu-Dig-Into-The-Attack-Surface-Of-PDF-And-Gain-100-CVEs-In-1-Year-wp.pdf">ke liu blackhat</a></html>.<br>
-
+<html><a href="https://www.google.co.il/search?rlz=1C1CHBF_enIL761IL761&biw=1366&bih=662&ei=Cup4WuTZNoWPmgXd_LygCw&q=pdfium%3A+SECURITY+inurl%3A%22bugs.chromium%22&oq=pdfium%3A+SECURITY+inurl%3A%22bugs.chromium%22&gs_l=psy-ab.3...0.0.0.22650.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.NtDpBqLpk3Y">pdfium bugs ..</a></html>.<br>
 <html><a href="https://nordictestingdays.eu/files/files/jaanus_kaap_fuzzing.pdf">jaanus kaap fuzzing pdf's</a></html>.<br>
 <html><a href="https://gendignoux.com/blog/2016/10/04/pdf-basics.html">api's//formats</a></html>.<br>
 <html><a href="http://insert-script.blogspot.co.il/2017/08/a-tale-about-foxit-reader-safe-reading.html">insertscript-foxit</a></html>.<br>
