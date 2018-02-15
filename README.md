@@ -211,9 +211,9 @@
 <html><a href="https://bo0om.ru/chrome-and-safari-uxss">bo0om.ru</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1163&can=1&q=&start=1000">lokihardt</a></html>.<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Displaying_web_content_in_an_extension_without_security_issues#Safe_HTML.c2.a0manipulation_functions">known problems</a></html>.
-<br><br>
+<br>
 <html><a href="https://bugbountyforum.com/blog/ama/orange/">Orange ama</a></html>.<br>
-<html><a href="http://phrack.org/issues/69/12.html">ohrack ruby on rails vul</a></html>.<br>
+<html><a href="http://phrack.org/issues/69/12.html">ohrack ruby on rails vul</a></html>.<br><br>
   
 * kernel & desktop client side<br>
 
