@@ -94,6 +94,7 @@
 * javacript:<br>
 
 
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1435">Acg-bypass ifratric</a>.<br>
 <html><a href="https://docs.google.com/presentation/d/11fkQeEisoszNGF8SrautVT1ltSnsQBWRxJ4usoc-g_o/edit#slide=id.g2b34aaab4a_0_84">Array bugs..</a>.<br>
 <html><a href="https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf">js-ll-overview</a>.<br>
  <html><a href="https://github.com/saelo/v9">saelo/v9</a>.<br>
@@ -171,9 +172,9 @@
  <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=728887">chrome-sb bug-2</a>.<br><br>
   
 
-* Other(js):<br>
+* Other(browser):<br>
 
-
+<html><a href="https://securelist.com/zero-day-vulnerability-in-telegram/83800/">flash zday</a>.<br>
 <html><a href="https://www.zerodayinitiative.com/blog/2017/8/24/deconstructing-a-winning-webkit-pwn2own-entry">webkit-zdi</a>.<br>
 <html><a href="https://github.com/Cryptogenic/Exploit-Writeups/blob/master/PS4/4.0x%20WebKit%20Exploit%20Writeup.md">webkit exploit writeup</a>.<br>
 <html><a href="https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit/blob/master/expl.js">webkit-oob-exploit</a>.<br>
@@ -200,7 +201,7 @@
      <br>
      
  
-* xss<br>
+* ServerSide & XSS<br>
 
 <html><a href="http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html">from ssrf-to-rce</a></html>.<br>
 <html><a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf">^^same</a></html>.<br>
@@ -211,10 +212,14 @@
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1163&can=1&q=&start=1000">lokihardt</a></html>.<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Displaying_web_content_in_an_extension_without_security_issues#Safe_HTML.c2.a0manipulation_functions">known problems</a></html>.
 <br><br>
+<html><a href="https://bugbountyforum.com/blog/ama/orange/">Orange ama</a></html>.<br>
+<html><a href="http://phrack.org/issues/69/12.html">ohrack ruby on rails vul</a></html>.<br>
   
-* kernel<br>
+* kernel & desktop client side<br>
 
 
+<html><a href="https://recon.cx/2018/brussels/resources/slides/RECON-BRX-2018-Reverse-Engineering-Windows-Defender-s-JavaScript-Engine.pdf">RE:windows defender</a></html>.<br>
+<html><a href="https://securelist.com/zero-day-vulnerability-in-telegram/83800/">telegram zday</a></html>.<br>
 <html><a href="https://siguza.github.io/IOHIDeous/">macOs-exp</a></html>.<br>
 <html><a href="https://github.com/theevilbit/kex">winKernelPrimitivesPython(pal)</a></html>.<br>
 <html><a href="https://github.com/xairy/linux-kernel-exploitation">xairy/linux-kernel-exploitation</a></html>.<br>
@@ -337,7 +342,7 @@
 
 * pdf:<br>
 
-
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1489">pdfium p0</a></html>.<br>
 <html><a href="https://www.blackhat.com/docs/asia-17/materials/asia-17-Liu-Dig-Into-The-Attack-Surface-Of-PDF-And-Gain-100-CVEs-In-1-Year-wp.pdf">ke liu blackhat</a></html>.<br>
 <html><a href="https://www.google.co.il/search?rlz=1C1CHBF_enIL761IL761&biw=1366&bih=662&ei=Cup4WuTZNoWPmgXd_LygCw&q=pdfium%3A+SECURITY+inurl%3A%22bugs.chromium%22&oq=pdfium%3A+SECURITY+inurl%3A%22bugs.chromium%22&gs_l=psy-ab.3...0.0.0.22650.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.NtDpBqLpk3Y">pdfium bugs ..</a></html>.<br>
 <html><a href="https://nordictestingdays.eu/files/files/jaanus_kaap_fuzzing.pdf">jaanus kaap fuzzing pdf's</a></html>.<br>
@@ -372,6 +377,8 @@
 
 * vm:<br>
 
+
+<html><a href="https://speakerdeck.com/marcograss/50-shades-of-fuzzing">50-shades-of-fuzzing vmware</a></html>.<br>
 <html><a href="https://www.slideshare.net/MSbluehat/bluehat-v17-out-of-the-truman-show-vm-escape-in-vmware-gracefully">Qihoo-vmware-escape</a></html>.<br>
 <html><a href="https://github.com/unamer/vmware_escape">vmware_escape</a></html>.<br>
 <html><a href="https://github.com/leonsodhi/hyperv-vswitch-vulnerability">hyper-v bug</a></html>.<br>
