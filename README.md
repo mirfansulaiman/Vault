@@ -213,7 +213,7 @@
 <html><a href="https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Displaying_web_content_in_an_extension_without_security_issues#Safe_HTML.c2.a0manipulation_functions">known problems</a></html>.
 <br>
 <html><a href="https://bugbountyforum.com/blog/ama/orange/">Orange ama</a></html>.<br>
-<html><a href="http://phrack.org/issues/69/12.html">ohrack ruby on rails vul</a></html>.<br><br>
+<html><a href="http://phrack.org/issues/69/12.html">phrack ruby on rails vul</a></html>.<br><br>
   
 * kernel & desktop client side<br>
 
