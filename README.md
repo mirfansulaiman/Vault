@@ -354,6 +354,10 @@
 <html><a href="https://github.com/tomcarver/pdf-tools">tomcarver/pdf-tools</a></html>.<br><br>
 
 * Office:<br>
+
+<html><a href="https://docs.microsoft.com/en-us/office/dev/add-ins/develop/support-for-task-pane-and-content-add-ins">office-JsApi</a></html>.<br>
+<html><a href="https://docs.microsoft.com/en-us/office/dev/add-ins/develop/understanding-the-javascript-api-for-office">office-JsApi-II</a></html>.<br>
+<html><a href="https://cybellum.com/vulnerability-analysis-type-confusion-microsoft-word-2016/">office-JsApi-Vul</a></html>.<br>
 <html><a href="https://srcincite.io/blog/2016/12/13/word-up-microsoft-word-onetabledocumentstream-underflow.html">office-word@mr_me</a></html>.<br>
 <html><a href="https://msdn.microsoft.com/en-us/library/office/dn906146.aspx">some interesting api's..</a></html>.<br>
 <html><a href="https://embedi.com/files/white-papers/skeleton-in-the-closet.pdf">embedi RCE</a></html>.<br><br>
