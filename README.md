@@ -257,7 +257,7 @@
 * Android:<br><br>
 
 
-<html><a href="http://androidxref.com/8.0.0_r4/xref/system/">(( android src ))</a></html>.<br><br>
+<html><a href="http://androidxref.com/8.0.0_r4/xref/system/">(( android src ))</a></html>.<br>
 <html><a href="https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright">libstagefright.so</a></html>.<br><br>
 
 
