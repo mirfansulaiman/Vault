@@ -315,7 +315,24 @@
 <html><a href="https://blog.scrt.ch/2017/07/10/numerous-swiss-domain-names-temporarily-hijacked/">scrt@dns-hijack</a></html>.<br><br>
 
 
+* Com:<br><br>
 
+<html><a href="https://vimeo.com/214856542">COM in 60 seconds</a></html>.<br>
+<html><a href="http://sandboxescaper.blogspot.co.il/2017/12/adobes-flash-com-server-breaks.html">sandboxescaper-flash-com-server</a></html>.<br>
+<html><a href="https://msdn.microsoft.com/en-us/library/aa264893(v=vs.60).aspx">iid-clsid-progid</a></html>.<br>
+<html><a href="https://github.com/tyranid/ExploitDotNetDCOM/blob/master/ExploitDotNetDCOMSerializer/COMSupport.cpp">ExploitDotNetDCOMSerializer</a></html>.<br>
+<html><a href="https://blogs.msdn.microsoft.com/deeptanshuv/2005/06/26/how-to-call-c-code-from-managed-and-vice-versa-interop/">interop</a></html>.<br>
+<html><a href="https://stackoverflow.com/questions/4969325/intellisense-using-requires-c-cli-to-be-enabled">cli-vs</a></html>.<br>
+<html><a href="http://www.orcca.on.ca/~elena/useful/CallingDotNetCodeFromCom.html">.net-com</a></html>.<br>
+<html><a href="https://msdn.microsoft.com/en-us/library/windows/desktop/ms687230(v=vs.85).aspx">doc-IUnkown</a></html>.<br>
+<html><a href="https://googleprojectzero.blogspot.co.il/2017/04/exploiting-net-managed-dcom.html">p0-com-blog</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/attachmentText?aid=268768">wincombug</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1358&can=1&q=owner%3Aforshaw%40google.com%20">intelcombug</a></html>.<br>
+<html><a href="github.com/SandboxEscaper/randomrepo/blob/master/IE11FLASHREADRESTRICTBYPASS%20v2.rar">SandboxEscaper-flash</a></html>.<br>
+<html><a href="github.com/tyranid/IE11SandboxEscapes">ie11-sbx</a></html>.<br>
+<html><a href="https://github.com/tyranid/oleviewdotnet">ole-view-dotnet</a></html>.<br>
+<html><a href="https://www.youtube.com/watch?v=q9dnYno_Moc">bhusa=2014 ie sbx forshaw</a></html>.<br>
+<html><a href="https://msdn.microsoft.com/en-us/library/d0kh9f4c.aspx">idl decompiler</a></html>.<br><br>
 
 
 * Speciel:<br>
