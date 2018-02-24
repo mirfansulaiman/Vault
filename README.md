@@ -204,6 +204,7 @@
 * ServerSide & XSS<br>
 
 
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=673170">chrome-uxss</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=owner%3Alokihardt%40google.com+&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=ids">a lot of uxss bugs</a></html>.<br>
 <html><a href="http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html">from ssrf-to-rce</a></html>.<br>
 <html><a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf">^^same</a></html>.<br>
