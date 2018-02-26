@@ -215,7 +215,29 @@
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1163&can=1&q=&start=1000">lokihardt</a></html>.<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Displaying_web_content_in_an_extension_without_security_issues#Safe_HTML.c2.a0manipulation_functions">known problems</a></html>.
 <br>
-<html><a href="https://bugbountyforum.com/blog/ama/orange/">Orange ama</a></html>.<br>
+<html><a href="https://bugbountyforum.com/blog/ama/orange/">Orange ama</a></html>.<br><br>
+<html><a href="https://cs.chromium.org/chromium/src/third_party/WebKit/Source/core/">--chrome dom src--</a></html>.<br>
+<html><a href="https://github.com/WebKit/webkit/tree/master/Source/WebCore">--webkit dom src--</a></html>.<br><br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=673170">chrome uxss 0</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=519558">chrome uxss 1</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=494640">chrome uxss 2</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=658535">chrome uxss 3</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=630870">chrome uxss 4</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=616907">chrome uxss 5</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=613266">chrome uxss 6</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=605766">chrome uxss 8</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=600182">chrome uxss 9</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=601706">chrome uxss 10</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=597532">chrome uxss 11</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=556724">chrome uxss 12</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1084">safari uxss 1</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1074">safari uxss 2</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1068">safari uxss 3</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1074">safari uxss 4</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1063">safari uxss 5</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1057">safari uxss 6</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1056">safari uxss 7</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1049">safari uxss 8</a></html>.<br>
 <html><a href="http://phrack.org/issues/69/12.html">phrack ruby on rails vul</a></html>.<br><br>
   
 * kernel & desktop client side<br>
