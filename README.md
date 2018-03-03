@@ -286,6 +286,7 @@
 <html><a href="https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright">libstagefright.so</a></html>.<br><br>
 
 
+<html><a href="https://stackoverflow.com/questions/35579646/android-source-code-compile-error-try-increasing-heap-size-with-java-option">fix oom when building source.</a></html>.<br>
 <html><a href="https://www.maketecheasier.com/run-android-apps-on-ubuntu/">enable binder & ashmem on lin the easy way ..</a></html>.<br>
 <html><a href="https://blog.trendmicro.com/trendlabs-security-intelligence/practical-android-debugging-via-kgdb/">kgdb</a></html>.<br>
 <html><a href="https://github.com/ele7enxxh/poc-exp">/ele7enxxh/poc-exp pocs and exploits .</a></html>.<br>
