@@ -279,6 +279,12 @@
 <html><a href="http://xlab.tencent.com/en/2016/04/19/exception-in-exception/">tencent</a></html>.<br>
 <html><a href="http://xlab.tencent.com/en/2016/01/04/use-chakra-engine-again-to-bypass-cfg/">bypass-cfg</a></html>.<br><br>
  
+ * ios
+ 
+ <html><a href="https://bazad.github.io/2018/03/a-fun-xnu-infoleak/">a-fun-xnu-infoleak-great writeup!</a></html>.<br>
+ <html><a href="https://github.com/bazad/ctl_ctloutput-leak/blob/master/ctl_ctloutput-leak.c">ctl_ctloutput-leak</a></html>.<br><br>
+
+ 
 * Android:<br><br>
 
 
