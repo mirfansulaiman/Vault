@@ -174,6 +174,7 @@
 
 * Other(browser):<br>
 
+<html><a href="https://stackoverflow.com/questions/11337849/ways-to-extend-array-object-in-javascript">JSoverrides</a></html>.<br>
 <html><a href="https://securelist.com/zero-day-vulnerability-in-telegram/83800/">flash zday</a>.<br>
 <html><a href="https://www.zerodayinitiative.com/blog/2017/8/24/deconstructing-a-winning-webkit-pwn2own-entry">webkit-zdi</a>.<br>
 <html><a href="https://github.com/Cryptogenic/Exploit-Writeups/blob/master/PS4/4.0x%20WebKit%20Exploit%20Writeup.md">webkit exploit writeup</a>.<br>
@@ -339,7 +340,6 @@
 
 
 <html><a href="https://krbtgt.pw/smbv3-null-pointer-dereference-vulnerability/">smb null deref</a></html>.<br>
-<html><a href="https://stackoverflow.com/questions/11337849/ways-to-extend-array-object-in-javascript">JSoverrides</a></html>.<br>
 <html><a href="https://pleasestopnamingvulnerabilities.com/integers.html">integers ovf</a></html>.<br>
 <html><a href="https://github.com/artkond/cisco-rce">artkond/cisco-rce</a></html>.<br>
 <html><a href="https://github.com/joxeankoret/CVE-2017-7494">SmbRce</a></html>.<br>
