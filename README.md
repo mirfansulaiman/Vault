@@ -337,6 +337,8 @@
 
 * Other:<br><br>
 
+
+<html><a href="https://krbtgt.pw/smbv3-null-pointer-dereference-vulnerability/">smb null deref</a></html>.<br>
 <html><a href="https://stackoverflow.com/questions/11337849/ways-to-extend-array-object-in-javascript">JSoverrides</a></html>.<br>
 <html><a href="https://pleasestopnamingvulnerabilities.com/integers.html">integers ovf</a></html>.<br>
 <html><a href="https://github.com/artkond/cisco-rce">artkond/cisco-rce</a></html>.<br>
