@@ -293,6 +293,8 @@
 <html><a href="https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright">libstagefright.so</a></html>.<br><br>
 
 
+<html><a href="https://github.com/ele7enxxh/slides/blob/master/A_Whole_New_Efficient_Fuzzing_Strategy_for_Stagefright_Porting_and_Optimisations-ruxcon2017.pdf">patch stagefright for fuzzing pdf</a></html>.<br>
+<html><a href="http://androidxref.com/8.0.0_r4/xref/frameworks/av/cmds/stagefright/stagefright.cpp#359">patch stagefright to decode only one frame with ^^ (p35)</a></html>.<br>
 <html><a href="https://stackoverflow.com/questions/35579646/android-source-code-compile-error-try-increasing-heap-size-with-java-option">fix oom when building source.</a></html>.<br>
 <html><a href="https://www.maketecheasier.com/run-android-apps-on-ubuntu/">enable binder & ashmem on lin the easy way ..</a></html>.<br>
 <html><a href="https://blog.trendmicro.com/trendlabs-security-intelligence/practical-android-debugging-via-kgdb/">kgdb</a></html>.<br>
