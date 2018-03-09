@@ -371,6 +371,14 @@
 <html><a href="https://www.youtube.com/watch?v=q9dnYno_Moc">bhusa=2014 ie sbx forshaw</a></html>.<br>
 <html><a href="https://msdn.microsoft.com/en-us/library/d0kh9f4c.aspx">idl decompiler</a></html>.<br><br>
 
+* flash:<br>
+
+<html><a href="https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html">0x0 configure jre for flex</a></html>.<br>
+<html><a href="http://www.qlambda.com/2010/07/mxmlc-error-loading-filesjavajre6binser.html">0x1 configure jre for flex</a></html>.<br>
+<html><a href="https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/Array.html">action script api</a></html>.<br>
+<html><a href="https://www.adobe.com/support/flashplayer/debug_downloads.html">flash projector</a></html>.<br>
+<html><a href="https://www.adobe.com/devnet/flex/flex-sdk-download.html">adobe flex</a></html>.<br>
+<html><a href="https://www.youtube.com/watch?time_continue=1511&v=JbvwCEOxyrA">@natashenka recon</a></html>.<br><br>
 
 * Speciel:<br>
 
