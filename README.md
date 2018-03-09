@@ -373,6 +373,8 @@
 
 * flash:<br>
 
+
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=adobe+flash&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=ids">gp0 flash</a></html>.<br>
 <html><a href="https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html">0x0 configure jre for flex</a></html>.<br>
 <html><a href="http://www.qlambda.com/2010/07/mxmlc-error-loading-filesjavajre6binser.html">0x1 configure jre for flex</a></html>.<br>
 <html><a href="https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/Array.html">action script api</a></html>.<br>
