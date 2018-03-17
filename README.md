@@ -5,7 +5,6 @@
 
 * general tools and attack surface:<br><br>
 
-
 <html><a href="https://blogs.msdn.microsoft.com/lagdas/2008/06/24/debugging-heap-corruption-with-application-verifier-and-debugdiag/">dbg-heap crpt</a></html>.<br>
 <html><a href="https://github.com/HexHive/HexType">Clang-Type-conf</a></html>.<br>
 <html><a href="https://github.com/quarkslab/QBDI">possibly-instrument-mem-curp-with</a></html>.<br>
@@ -56,6 +55,10 @@
 <html><a href="https://chromium.googlesource.com/chromium/src.git/+/8b2f970348522c1103faed86cfabb0a1a07b8be6/net/quic">chromium quic</a></html>.<br><br>
 
 * env-nix*:<br>
+
+<html><a href="https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md">libfuzzer tuto</a></html>.<br>
+<html><a href="http://llvm.org/docs/LibFuzzer.html">libfuzzer at llvm</a></html>.<br>
+<html><a href="https://github.com/google/oss-fuzz">oss-fuzz</a></html>.<br>
 <html><a href="https://animal0day.blogspot.co.il/2017/12/linux-kernel-debugging-with-vmware.html">kgdb</a></html>.<br>
 <html><a href="https://github.com/MozillaSecurity/dharma">dharma/a></html>.<br>
 <html><a href="https://github.com/MozillaSecurity/framboise">webGl/a></html>.<br>
