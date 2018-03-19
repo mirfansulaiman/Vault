@@ -177,6 +177,8 @@
 
 * Other(browser):<br>
 
+
+<html><a href="https://dom.spec.whatwg.org/">dom spec</a>.<br>
 <html><a href="https://stackoverflow.com/questions/11337849/ways-to-extend-array-object-in-javascript">JSoverrides</a></html>.<br>
 <html><a href="https://securelist.com/zero-day-vulnerability-in-telegram/83800/">flash zday</a>.<br>
 <html><a href="https://www.zerodayinitiative.com/blog/2017/8/24/deconstructing-a-winning-webkit-pwn2own-entry">webkit-zdi</a>.<br>
@@ -205,13 +207,11 @@
      <br>
      
  
-* ServerSide & XSS<br>
+* DOM bugs and UXSS<br>
 
-
+<html><a href="https://dom.spec.whatwg.org/">dom spec</a>.<br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=673170">chrome-uxss</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=owner%3Alokihardt%40google.com+&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=ids">a lot of uxss bugs</a></html>.<br>
-<html><a href="http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html">from ssrf-to-rce</a></html>.<br>
-<html><a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf">^^same</a></html>.<br>
 <html><a href="http://blog.malerisch.net/2017/04/uxss-mcafee-endpoint-security-and-site-advisor-cve-2016-8011.html">mcafee-UXSS</a></html>.<br>
 <html><a href="https://events.ccc.de/congress/2006/Fahrplan/attachments/1158-Subverting_Ajax.pdf">subverting ajax</a></html>.<br>
 <html><a href="https://medium.com/@auxy233/the-design-and-implementation-of-ssrf-attack-framework-550e9fda16ea">SSRF</a></html>.<br>
@@ -241,7 +241,12 @@
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1063">safari uxss 5</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1057">safari uxss 6</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1056">safari uxss 7</a></html>.<br>
-<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1049">safari uxss 8</a></html>.<br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1049">safari uxss 8</a></html>.<br><br>
+
+* Server side:<br>
+ 
+<html><a href="http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html">from ssrf-to-rce</a></html>.<br>
+<html><a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf">^^same</a></html>.<br>
 <html><a href="http://phrack.org/issues/69/12.html">phrack ruby on rails vul</a></html>.<br><br>
   
 * kernel & desktop client side<br>
