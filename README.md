@@ -97,6 +97,7 @@
 * javacript:<br>
 
 
+<html><a href="https://www.blackhat.com/docs/us-16/materials/us-16-Molinyawe-Shell-On-Earth-From-Browser-To-System-Compromise-wp.pdf">bhusa-ZDI from browser to system compromise</a>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1435">Acg-bypass ifratric</a>.<br>
 <html><a href="https://docs.google.com/presentation/d/11fkQeEisoszNGF8SrautVT1ltSnsQBWRxJ4usoc-g_o/edit#slide=id.g2b34aaab4a_0_84">Array bugs..</a>.<br>
 <html><a href="https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf">js-ll-overview</a>.<br>
