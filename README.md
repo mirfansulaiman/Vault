@@ -464,6 +464,7 @@
 * vm:<br>
 
 
+<html><a href="https://www.youtube.com/watch?v=fFaWE3jt7qU">@_niklasb insomaninhack virtualbox (video)</a></html>.<br>
 <html><a href="https://github.com/phoenhex/files/blob/master/slides/unboxing_your_virtualboxes.pdf">virtual box escapes</a></html>.<br>
 <html><a href="https://speakerdeck.com/marcograss/50-shades-of-fuzzing">50-shades-of-fuzzing vmware</a></html>.<br>
 <html><a href="https://www.slideshare.net/MSbluehat/bluehat-v17-out-of-the-truman-show-vm-escape-in-vmware-gracefully">Qihoo-vmware-escape</a></html>.<br>
