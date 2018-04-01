@@ -117,6 +117,7 @@
 * v8<br><br>
 
 
+<html><a href="https://github.com/theori-io/zer0con2018_bpak">zerocon-Chrome internals & exploitation</a>.<br>
 <html><a href="https://github.com/xuechiyaobai/V8_November_2017">Chrome exploits-(S0rryMybad)</a>.<br>
 <html><a href="https://docs.google.com/presentation/d/1YdpdI1aeBnlchyAYvjw1Alm3QcoenPm6x4D7DA4pQUY/edit#slide=id.p">v8-escape-analysis</a></html>.<br>
 <html><a href="https://speakerdeck.com/brn/source-to-binary-journey-of-v8-javascript-engine-english-version">v8-opt</a></html>.<br>
