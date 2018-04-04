@@ -305,6 +305,8 @@
 <html><a href="http://androidxref.com/8.0.0_r4/xref/system/">(( android src ))</a></html>.<br>
 <html><a href="https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright">libstagefright.so</a></html>.<br><br>
 
+
+<html><a href="https://cansecwest.com/slides/2018/Exploring%20Qualcomm%20Baseband%20via%20ModKit%20-%20Peter%20Pi,%20XiLing%20Gong,%20and%20Gmxp,%20Tencent%20Security%20Platform%20Department.pdf">QCOM pixel RE Tencent</a></html>.<br>
 <html><a href="https://blog.quarkslab.com/android-bluetooth-vulnerabilities-in-the-march-2018-security-bulletin.html">QLab bluetooth vuln's</a></html>.<br>
 <html><a href="https://github.com/ele7enxxh/slides/blob/master/A_Whole_New_Efficient_Fuzzing_Strategy_for_Stagefright_Porting_and_Optimisations-ruxcon2017.pdf">patch stagefright for fuzzing pdf</a></html>.<br>
 <html><a href="http://androidxref.com/8.0.0_r4/xref/frameworks/av/cmds/stagefright/stagefright.cpp#359">patch stagefright to decode only one frame with ^^ (p35)</a></html>.<br>
