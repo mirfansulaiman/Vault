@@ -257,6 +257,7 @@
 * kernel & desktop client side<br>
 
 
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1543&desc=2">msmpengine rar vuln gp0</a></html>.<br>
 <html><a href="https://www.talosintelligence.com/vulnerability_reports/TALOS-2016-0087">intel igdkmd64 vul (talos)</a></html>.<br>
 <html><a href="https://recon.cx/2018/brussels/resources/slides/RECON-BRX-2018-Reverse-Engineering-Windows-Defender-s-JavaScript-Engine.pdf">RE:windows defender</a></html>.<br>
 <html><a href="https://securelist.com/zero-day-vulnerability-in-telegram/83800/">telegram zday</a></html>.<br>
