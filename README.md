@@ -350,7 +350,8 @@
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1300">gpo-3</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1289">gpo-4</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1291">gpo-5</a></html>.<br>
-<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1294">gpo-6</a></html>.<br><br>
+<html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1294">gpo-6</a></html>.<br>
+<html><a href="https://cansecwest.com/slides/2018/Attacks%20and%20Analysis%20of%20the%20Samsung%20S8%20from%20Mobile%20PWN2OWN%20-%20Guang%20Gong%20and%20Jianjun%20Dai,%20Qihoo%20360.pdf">samsung guanggong cansecwest</a></html>.<br><br>
 
 
 
