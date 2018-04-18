@@ -371,6 +371,8 @@
 
 * Com:<br><br>
 
+
+<html><a href="https://googleprojectzero.blogspot.co.il/2018/04/windows-exploitation-tricks-exploiting.html">com gp0 blog</a></html>.<br>
 <html><a href="https://vimeo.com/214856542">COM in 60 seconds</a></html>.<br>
 <html><a href="http://sandboxescaper.blogspot.co.il/2017/12/adobes-flash-com-server-breaks.html">sandboxescaper-flash-com-server</a></html>.<br>
 <html><a href="https://msdn.microsoft.com/en-us/library/aa264893(v=vs.60).aspx">iid-clsid-progid</a></html>.<br>
