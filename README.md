@@ -472,7 +472,7 @@
 
 * vm:<br>
 
-
+<html><a href="https://keenlab.tencent.com/en/2018/04/23/A-bunch-of-Red-Pills-VMware-Escapes/">keenlab vmware escapes!</a></html>.<br>
 <html><a href="https://www.youtube.com/watch?v=fFaWE3jt7qU">@_niklasb insomaninhack virtualbox (video)</a></html>.<br>
 <html><a href="https://github.com/phoenhex/files/blob/master/slides/unboxing_your_virtualboxes.pdf">virtual box escapes</a></html>.<br>
 <html><a href="https://speakerdeck.com/marcograss/50-shades-of-fuzzing">50-shades-of-fuzzing vmware</a></html>.<br>
