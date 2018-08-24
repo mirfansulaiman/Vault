@@ -159,7 +159,10 @@
   <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=752423">vuln-1</a>.<br>
   <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=759624">vuln-2</a>.<br><br>
    
-* SandBox:<br>
+* SandBox:<br><br>
+
+<html><a href="https://github.com/fpdetective/fpdetective/wiki/Instructions-for-Patching-Chromium">PATCH CHROMIUM.</a>.<br><br>
+
 
 
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=842990">IndexedDB sbx - chromium 2018</a>.<br>
