@@ -162,6 +162,7 @@
 * SandBox:<br>
 
 
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=842990">IndexedDB sbx - chromium 2018</a>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1450">gpo chrome mojom::directory interface ..</a>.<br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=733549">chrome IPC</a>.<br>
 <html><a href="https://github.com/google/sandbox-attacksurface-analysis-tools">google/sandbox-attacksurface-analysis-tools</a>.<br>
