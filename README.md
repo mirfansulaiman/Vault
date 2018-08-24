@@ -245,8 +245,10 @@
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1056">safari uxss 7</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1049">safari uxss 8</a></html>.<br><br>
 
-* Server side:<br>
+* Server side & WEBSEC:<br>
  
+ 
+ <html><a href="https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/">fb-django-rce</a></html>.<br>
 <html><a href="https://medium.com/@auxy233/the-design-and-implementation-of-ssrf-attack-framework-550e9fda16ea">SSRF</a></html>.<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Displaying_web_content_in_an_extension_without_security_issues#Safe_HTML.c2.a0manipulation_functions">known problems</a></html>.
 <br>
