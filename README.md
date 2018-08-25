@@ -97,6 +97,7 @@
 * javacript:<br>
 
 
+ <html><a href="http://powerofcommunity.net/poc2017/jeonghoon.pdf">FUZZING JS INTERPETERS singi-ZEROCON17</a>.<br>
 <html><a href="https://github.com/mwrlabs/CVE-2018-4121">p2o 18 mwr safari exp</a>.<br>
 <html><a href="https://github.com/theori-io/zer0con2018_singi/blob/master/slide/singi_zer0con_2018_slide.pdf">from safari to kernel ZCON2018</a>.<br>
 <html><a href="https://www.blackhat.com/docs/us-16/materials/us-16-Molinyawe-Shell-On-Earth-From-Browser-To-System-Compromise-wp.pdf">bhusa-ZDI from browser to system compromise</a>.<br>
