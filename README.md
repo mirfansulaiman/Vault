@@ -97,6 +97,8 @@
 * javacript:<br>
 
 
+<html><a href="https://mathiasbynens.be/notes/prototypes">goog-v8 opt prototypes</a>.<br>
+<html><a href="https://blogs.projectmoon.pw/2018/08/17/Edge-InlineArrayPush-Remote-Code-Execution/">S0rryMyBad-chakra rce</a>.<br>
  <html><a href="http://powerofcommunity.net/poc2017/jeonghoon.pdf">FUZZING JS INTERPETERS singi-ZEROCON17</a>.<br>
 <html><a href="https://github.com/mwrlabs/CVE-2018-4121">p2o 18 mwr safari exp</a>.<br>
 <html><a href="https://github.com/theori-io/zer0con2018_singi/blob/master/slide/singi_zer0con_2018_slide.pdf">from safari to kernel ZCON2018</a>.<br>
