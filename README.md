@@ -218,6 +218,8 @@
  
 * DOM bugs and UXSS<br>
 
+
+<html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=840320">Blink type conf- guanggong 2018</a></html>.<br>
 <html><a href="https://dom.spec.whatwg.org/">dom spec</a>.<br>
 <html><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=673170">chrome-uxss</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=owner%3Alokihardt%40google.com+&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=ids">a lot of uxss bugs</a></html>.<br>
