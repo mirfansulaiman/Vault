@@ -257,6 +257,8 @@
 * Server side & WEBSEC:<br>
  
  
+ 
+ <html><a href="https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2018/august/singularity-of-origin-a-dns-rebinding-attack-framework/">ncc- dns rebinding</a></html>.<br>
  <html><a href="https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/">fb-django-rce</a></html>.<br>
 <html><a href="https://medium.com/@auxy233/the-design-and-implementation-of-ssrf-attack-framework-550e9fda16ea">SSRF</a></html>.<br>
 <html><a href="https://developer.mozilla.org/en-US/docs/Archive/Add-ons/Displaying_web_content_in_an_extension_without_security_issues#Safe_HTML.c2.a0manipulation_functions">known problems</a></html>.
@@ -268,7 +270,7 @@
   
 * kernel & desktop client side<br>
 
-
+<html><a href="https://cdn2.hubspot.net/hubfs/487909/Turning%20(Page)%20Tables_Slides.pdf">ensilo mitigations - windows internals 2018 RS3 || RS4</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1543&desc=2">msmpengine rar vuln gp0</a></html>.<br>
 <html><a href="https://www.talosintelligence.com/vulnerability_reports/TALOS-2016-0087">intel igdkmd64 vul (talos)</a></html>.<br>
 <html><a href="https://recon.cx/2018/brussels/resources/slides/RECON-BRX-2018-Reverse-Engineering-Windows-Defender-s-JavaScript-Engine.pdf">RE:windows defender</a></html>.<br>
