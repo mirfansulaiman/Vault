@@ -97,6 +97,7 @@
 * javacript:<br>
 
 
+<html><a href="https://github.com/externalist/exploit_playground/blob/master/jsc_ConcatMemcpy_infoleak/ileak.html">JSC exploit - 2018</a>.<br>
 <html><a href="https://mathiasbynens.be/notes/prototypes">goog-v8 opt prototypes</a>.<br>
 <html><a href="https://blogs.projectmoon.pw/2018/08/17/Edge-InlineArrayPush-Remote-Code-Execution/">S0rryMyBad-chakra rce</a>.<br>
  <html><a href="http://powerofcommunity.net/poc2017/jeonghoon.pdf">FUZZING JS INTERPETERS singi-ZEROCON17</a>.<br>
