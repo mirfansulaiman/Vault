@@ -273,6 +273,8 @@
   
 * kernel & desktop client side<br>
 
+
+<html><a href="https://blog.can.ac/2018/05/11/arbitrary-code-execution-at-ring-0-using-cve-2018-8897/">cve-2018-8897 LPE WIN</a></html>.<br>
 <html><a href="https://cdn2.hubspot.net/hubfs/487909/Turning%20(Page)%20Tables_Slides.pdf">ensilo mitigations - windows internals 2018 RS3 || RS4</a></html>.<br>
 <html><a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=1543&desc=2">msmpengine rar vuln gp0</a></html>.<br>
 <html><a href="https://www.talosintelligence.com/vulnerability_reports/TALOS-2016-0087">intel igdkmd64 vul (talos)</a></html>.<br>
