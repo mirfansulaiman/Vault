@@ -98,7 +98,7 @@
 
 
 <html><a href="https://github.com/externalist/exploit_playground/blob/master/jsc_ConcatMemcpy_infoleak/ileak.html">JSC exploit - 2018</a>.<br>
- 
+  <html><a href="https://bugs.chromium.org/p/project-zero/issues/attachmentText?aid=355129">ifratric - IE infoleak exploit  - heap manipulation.</a>.<br>
  <html><a href="https://github.com/wzw19890321/Exploits/blob/master/CVE-2018-4262/CVE-2018-4262.html">safari reg-exp krzywix</a>.<br>
 <html><a href="https://mathiasbynens.be/notes/prototypes">goog-v8 opt prototypes</a>.<br>
 <html><a href="https://blogs.projectmoon.pw/2018/08/17/Edge-InlineArrayPush-Remote-Code-Execution/">S0rryMyBad-chakra rce</a>.<br>
