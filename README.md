@@ -491,6 +491,7 @@
 * vm:<br>
 
 
+<html><a href="https://www.zerodayinitiative.com/blog/2018/8/28/virtualbox-3d-acceleration-an-accelerated-attack-surface">zdi - virtual box escape</a></html>.<br>
 <html><a href="https://www.voidsecurity.in/2018/08/from-compiler-optimization-to-code.html">virtual-box escape</a></html>.<br>
 <html><a href="https://keenlab.tencent.com/en/2018/04/23/A-bunch-of-Red-Pills-VMware-Escapes/">keenlab vmware escapes!</a></html>.<br>
 <html><a href="https://www.youtube.com/watch?v=fFaWE3jt7qU">@_niklasb insomaninhack virtualbox (video)</a></html>.<br>
